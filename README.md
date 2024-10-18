@@ -2,7 +2,7 @@
 
 map of service stations in the uk from https://motorwayservices.uk/
 
-view on:
+view on: <https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2Falifeee%2Fservice-stations%2Frefs%2Fheads%2Fmain%2Fcoordinates.geojson>
 
 ```bash
 # get all possible pages from motorway services site
