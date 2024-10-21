@@ -42,7 +42,7 @@ git clone git@github.com:pvernier/csv2geojson.git
 
 ### Google Maps
 
-not sure yet...
+create a custom map ([how?](https://www.google.com/maps/about/mymaps/)) and import the `.kml` file above. Or, use this map I made: <https://www.google.com/maps/d/u/0/edit?mid=1llayKM-EKG17ENDg8x-3_Xv6-yNkTxU&usp=sharing>
 
 ### OSMAnd
 
