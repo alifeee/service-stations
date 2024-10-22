@@ -1,0 +1,27 @@
+{
+		"type": "FeatureCollection",
+		"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },                                                                  
+		"features": [
+	{ "type": "Feature", "properties": {"name":"Athlone","eircode":"N37 N2T0","URL":"http://motorwayservices.ie/Athlone"}, "geometry": { "type": "Point", "coordinates": [-7.8273165, 53.4007486]} },
+{ "type": "Feature", "properties": {"name":"Birdhill","eircode":"V94 720P","URL":"http://motorwayservices.ie/Birdhill"}, "geometry": { "type": "Point", "coordinates": [-8.408365, 52.7584205]} },
+{ "type": "Feature", "properties": {"name":"Carlow","eircode":"R93 N2X8","URL":"http://motorwayservices.ie/Carlow"}, "geometry": { "type": "Point", "coordinates": [-6.8832978, 52.8026044]} },
+{ "type": "Feature", "properties": {"name":"Cashel","eircode":"E25 RC42","URL":"http://motorwayservices.ie/Cashel"}, "geometry": { "type": "Point", "coordinates": [-7.8730672, 52.5090291]} },
+{ "type": "Feature", "properties": {"name":"Castlebellingham","eircode":"A91 A2WY","URL":"http://motorwayservices.ie/Castlebellingham"}, "geometry": { "type": "Point", "coordinates": [-6.4169479, 53.9318538]} },
+{ "type": "Feature", "properties": {"name":"Enfield","eircode":"A83 NR71","URL":"http://motorwayservices.ie/Enfield"}, "geometry": { "type": "Point", "coordinates": [-6.8765776, 53.4112383]} },
+{ "type": "Feature", "properties": {"name":"Fermoy","eircode":"P61 RY63","URL":"http://motorwayservices.ie/Fermoy"}, "geometry": { "type": "Point", "coordinates": [-8.2612881, 52.1655816]} },
+{ "type": "Feature", "properties": {"name":"Galway","eircode":"H65 EK28","URL":"http://motorwayservices.ie/Galway"}, "geometry": { "type": "Point", "coordinates": [-8.606848, 53.2644819]} },
+{ "type": "Feature", "properties": {"name":"Gorey","eircode":"Y25 V8F8","URL":"http://motorwayservices.ie/Gorey"}, "geometry": { "type": "Point", "coordinates": [-6.2028138, 52.7504172]} },
+{ "type": "Feature", "properties": {"name":"Kilcullen","eircode":"R56 T251","URL":"http://motorwayservices.ie/Kilcullen"}, "geometry": { "type": "Point", "coordinates": [-6.7556429, 53.087789]} },
+{ "type": "Feature", "properties": {"name":"Kill","eircode":"W91 VNN3","URL":"http://motorwayservices.ie/Kill"}, "geometry": { "type": "Point", "coordinates": [-6.5958702, 53.2477264]} },
+{ "type": "Feature", "properties": {"name":"Kinnegad","eircode":"N91 N9YR","URL":"http://motorwayservices.ie/Kinnegad"}, "geometry": { "type": "Point", "coordinates": [-7.1077325, 53.4522016]} },
+{ "type": "Feature", "properties": {"name":"Lusk","eircode":"K45 KD89","URL":"http://motorwayservices.ie/Lusk"}, "geometry": { "type": "Point", "coordinates": [-6.2156121, 53.5369965]} },
+{ "type": "Feature", "properties": {"name":"Manor_Stone","eircode":"R32 X8H7","URL":"http://motorwayservices.ie/Manor_Stone"}, "geometry": { "type": "Point", "coordinates": [-7.4807808, 52.8665715]} },
+{ "type": "Feature", "properties": {"name":"Mayfield","eircode":"W34 E789","URL":"http://motorwayservices.ie/Mayfield"}, "geometry": { "type": "Point", "coordinates": [-7.0130851, 53.1450646]} },
+{ "type": "Feature", "properties": {"name":"Midway_Food_Court","eircode":"R32 V09W","URL":"http://motorwayservices.ie/Midway_Food_Court"}, "geometry": { "type": "Point", "coordinates": [-7.2998537, 53.0140445]} },
+{ "type": "Feature", "properties": {"name":"Moneygall","eircode":"E53 F342","URL":"http://motorwayservices.ie/Moneygall"}, "geometry": { "type": "Point", "coordinates": [-7.9444262, 52.8845153]} },
+{ "type": "Feature", "properties": {"name":"Mulhuddart","eircode":"D15 VK30","URL":"http://motorwayservices.ie/Mulhuddart"}, "geometry": { "type": "Point", "coordinates": [-6.4137948, 53.4068466]} },
+{ "type": "Feature", "properties": {"name":"Paulstown","eircode":"R95 R2X6","URL":"http://motorwayservices.ie/Paulstown"}, "geometry": { "type": "Point", "coordinates": [-7.0353789, 52.6801939]} },
+{ "type": "Feature", "properties": {"name":"Portlaoise","eircode":"R32 V97T","URL":"http://motorwayservices.ie/Portlaoise"}, "geometry": { "type": "Point", "coordinates": [-7.3074749, 53.0142894]} },
+{ "type": "Feature", "properties": {"name":"Rathcoole","eircode":"D24 DH00","URL":"http://motorwayservices.ie/Rathcoole"}, "geometry": { "type": "Point", "coordinates": [-6.4883542, 53.2784621]} },
+{ "type": "Feature", "properties": {"name":"Wicklow","eircode":"A67 WR12","URL":"http://motorwayservices.ie/Wicklow"}, "geometry": { "type": "Point", "coordinates": [-6.0904412, 53.0442765]} }]
+}

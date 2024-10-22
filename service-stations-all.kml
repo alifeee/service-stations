@@ -1,0 +1,2651 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>Athlone</name><ExtendedData>
+  <Data name="eircode"><value>N37 N2T0</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Athlone</value></Data></ExtendedData>
+  <Point><coordinates>-7.8273165,53.4007486</coordinates></Point></Placemark>
+<Placemark>
+<name>Birdhill</name><ExtendedData>
+  <Data name="eircode"><value>V94 720P</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Birdhill</value></Data></ExtendedData>
+  <Point><coordinates>-8.408365,52.7584205</coordinates></Point></Placemark>
+<Placemark>
+<name>Carlow</name><ExtendedData>
+  <Data name="eircode"><value>R93 N2X8</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Carlow</value></Data></ExtendedData>
+  <Point><coordinates>-6.8832978,52.8026044</coordinates></Point></Placemark>
+<Placemark>
+<name>Cashel</name><ExtendedData>
+  <Data name="eircode"><value>E25 RC42</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Cashel</value></Data></ExtendedData>
+  <Point><coordinates>-7.8730672,52.5090291</coordinates></Point></Placemark>
+<Placemark>
+<name>Castlebellingham</name><ExtendedData>
+  <Data name="eircode"><value>A91 A2WY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Castlebellingham</value></Data></ExtendedData>
+  <Point><coordinates>-6.4169479,53.9318538</coordinates></Point></Placemark>
+<Placemark>
+<name>Enfield</name><ExtendedData>
+  <Data name="eircode"><value>A83 NR71</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Enfield</value></Data></ExtendedData>
+  <Point><coordinates>-6.8765776,53.4112383</coordinates></Point></Placemark>
+<Placemark>
+<name>Fermoy</name><ExtendedData>
+  <Data name="eircode"><value>P61 RY63</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Fermoy</value></Data></ExtendedData>
+  <Point><coordinates>-8.2612881,52.1655816</coordinates></Point></Placemark>
+<Placemark>
+<name>Galway</name><ExtendedData>
+  <Data name="eircode"><value>H65 EK28</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Galway</value></Data></ExtendedData>
+  <Point><coordinates>-8.606848,53.2644819</coordinates></Point></Placemark>
+<Placemark>
+<name>Gorey</name><ExtendedData>
+  <Data name="eircode"><value>Y25 V8F8</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Gorey</value></Data></ExtendedData>
+  <Point><coordinates>-6.2028138,52.7504172</coordinates></Point></Placemark>
+<Placemark>
+<name>Kilcullen</name><ExtendedData>
+  <Data name="eircode"><value>R56 T251</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Kilcullen</value></Data></ExtendedData>
+  <Point><coordinates>-6.7556429,53.087789</coordinates></Point></Placemark>
+<Placemark>
+<name>Kill</name><ExtendedData>
+  <Data name="eircode"><value>W91 VNN3</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Kill</value></Data></ExtendedData>
+  <Point><coordinates>-6.5958702,53.2477264</coordinates></Point></Placemark>
+<Placemark>
+<name>Kinnegad</name><ExtendedData>
+  <Data name="eircode"><value>N91 N9YR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Kinnegad</value></Data></ExtendedData>
+  <Point><coordinates>-7.1077325,53.4522016</coordinates></Point></Placemark>
+<Placemark>
+<name>Lusk</name><ExtendedData>
+  <Data name="eircode"><value>K45 KD89</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Lusk</value></Data></ExtendedData>
+  <Point><coordinates>-6.2156121,53.5369965</coordinates></Point></Placemark>
+<Placemark>
+<name>Manor_Stone</name><ExtendedData>
+  <Data name="eircode"><value>R32 X8H7</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Manor_Stone</value></Data></ExtendedData>
+  <Point><coordinates>-7.4807808,52.8665715</coordinates></Point></Placemark>
+<Placemark>
+<name>Mayfield</name><ExtendedData>
+  <Data name="eircode"><value>W34 E789</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Mayfield</value></Data></ExtendedData>
+  <Point><coordinates>-7.0130851,53.1450646</coordinates></Point></Placemark>
+<Placemark>
+<name>Midway_Food_Court</name><ExtendedData>
+  <Data name="eircode"><value>R32 V09W</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Midway_Food_Court</value></Data></ExtendedData>
+  <Point><coordinates>-7.2998537,53.0140445</coordinates></Point></Placemark>
+<Placemark>
+<name>Moneygall</name><ExtendedData>
+  <Data name="eircode"><value>E53 F342</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Moneygall</value></Data></ExtendedData>
+  <Point><coordinates>-7.9444262,52.8845153</coordinates></Point></Placemark>
+<Placemark>
+<name>Mulhuddart</name><ExtendedData>
+  <Data name="eircode"><value>D15 VK30</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Mulhuddart</value></Data></ExtendedData>
+  <Point><coordinates>-6.4137948,53.4068466</coordinates></Point></Placemark>
+<Placemark>
+<name>Paulstown</name><ExtendedData>
+  <Data name="eircode"><value>R95 R2X6</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Paulstown</value></Data></ExtendedData>
+  <Point><coordinates>-7.0353789,52.6801939</coordinates></Point></Placemark>
+<Placemark>
+<name>Portlaoise</name><ExtendedData>
+  <Data name="eircode"><value>R32 V97T</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Portlaoise</value></Data></ExtendedData>
+  <Point><coordinates>-7.3074749,53.0142894</coordinates></Point></Placemark>
+<Placemark>
+<name>Rathcoole</name><ExtendedData>
+  <Data name="eircode"><value>D24 DH00</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Rathcoole</value></Data></ExtendedData>
+  <Point><coordinates>-6.4883542,53.2784621</coordinates></Point></Placemark>
+<Placemark>
+<name>Wicklow</name><ExtendedData>
+  <Data name="eircode"><value>A67 WR12</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Wicklow</value></Data></ExtendedData>
+  <Point><coordinates>-6.0904412,53.0442765</coordinates></Point></Placemark>
+<Placemark>
+<name>Abercynon</name><ExtendedData>
+  <Data name="postcode"><value>CF45 4YX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Abercynon</value></Data></ExtendedData>
+  <Point><coordinates>-3.321808,51.645552</coordinates></Point></Placemark>
+<Placemark>
+<name>Abington</name><ExtendedData>
+  <Data name="postcode"><value>ML12 6RG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Abington</value></Data></ExtendedData>
+  <Point><coordinates>-3.695989,55.507502</coordinates></Point></Placemark>
+<Placemark>
+<name>Acle</name><ExtendedData>
+  <Data name="postcode"><value>NR13 3BE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Acle</value></Data></ExtendedData>
+  <Point><coordinates>1.55067,52.638237</coordinates></Point></Placemark>
+<Placemark>
+<name>Acre_Hill</name><ExtendedData>
+  <Data name="postcode"><value>OX29 4EN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Acre_Hill</value></Data></ExtendedData>
+  <Point><coordinates>-1.366947,51.788056</coordinates></Point></Placemark>
+<Placemark>
+<name>Adderstone</name><ExtendedData>
+  <Data name="postcode"><value>NE70 7JU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Adderstone</value></Data></ExtendedData>
+  <Point><coordinates>-1.791249,55.564274</coordinates></Point></Placemark>
+<Placemark>
+<name>Alfreton</name><ExtendedData>
+  <Data name="postcode"><value>DE55 1HJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Alfreton</value></Data></ExtendedData>
+  <Point><coordinates>-1.394492,53.087453</coordinates></Point></Placemark>
+<Placemark>
+<name>Alwalton</name><ExtendedData>
+  <Data name="postcode"><value>PE7 3UJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Alwalton</value></Data></ExtendedData>
+  <Point><coordinates>-0.331666,52.543923</coordinates></Point></Placemark>
+<Placemark>
+<name>Annandale_Water</name><ExtendedData>
+  <Data name="postcode"><value>DG11 1HD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Annandale_Water</value></Data></ExtendedData>
+  <Point><coordinates>-3.416082,55.215885</coordinates></Point></Placemark>
+<Placemark>
+<name>Appleby_Magna</name><ExtendedData>
+  <Data name="postcode"><value>DE12 7AP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Appleby_Magna</value></Data></ExtendedData>
+  <Point><coordinates>-1.540577,52.672183</coordinates></Point></Placemark>
+<Placemark>
+<name>Ashby-de-la-Zouch</name><ExtendedData>
+  <Data name="postcode"><value>LE65 1JP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ashby-de-la-Zouch</value></Data></ExtendedData>
+  <Point><coordinates>-1.448664,52.751413</coordinates></Point></Placemark>
+<Placemark>
+<name>Ashford</name><ExtendedData>
+  <Data name="postcode"><value>TN24 0GB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ashford</value></Data></ExtendedData>
+  <Point><coordinates>0.897468,51.124606</coordinates></Point></Placemark>
+<Placemark>
+<name>Ashgrove</name><ExtendedData>
+  <Data name="postcode"><value>AB54 4TL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ashgrove</value></Data></ExtendedData>
+  <Point><coordinates>-2.855875,57.484275</coordinates></Point></Placemark>
+<Placemark>
+<name>Ashington</name><ExtendedData>
+  <Data name="postcode"><value>RH20 3AT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ashington</value></Data></ExtendedData>
+  <Point><coordinates>-0.386249,50.940471</coordinates></Point></Placemark>
+<Placemark>
+<name>Astwick</name><ExtendedData>
+  <Data name="postcode"><value>SG5 4BL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Astwick</value></Data></ExtendedData>
+  <Point><coordinates>-0.215812,52.026804</coordinates></Point></Placemark>
+<Placemark>
+<name>Attleborough</name><ExtendedData>
+  <Data name="postcode"><value>NR17 2PU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Attleborough</value></Data></ExtendedData>
+  <Point><coordinates>1.051085,52.531773</coordinates></Point></Placemark>
+<Placemark>
+<name>Baldock</name><ExtendedData>
+  <Data name="postcode"><value>SG7 5TR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Baldock</value></Data></ExtendedData>
+  <Point><coordinates>-0.202486,52.014517</coordinates></Point></Placemark>
+<Placemark>
+<name>Balhaldie</name><ExtendedData>
+  <Data name="postcode"><value>FK15 0NB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Balhaldie</value></Data></ExtendedData>
+  <Point><coordinates>-3.901656,56.229968</coordinates></Point></Placemark>
+<Placemark>
+<name>Ballinluig</name><ExtendedData>
+  <Data name="postcode"><value>PH9 0LG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ballinluig</value></Data></ExtendedData>
+  <Point><coordinates>-3.66938,56.654083</coordinates></Point></Placemark>
+<Placemark>
+<name>Ballymena</name><ExtendedData>
+  <Data name="postcode"><value>BT44 9HA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ballymena</value></Data></ExtendedData>
+  <Point><coordinates>-6.328715,54.940272</coordinates></Point></Placemark>
+<Placemark>
+<name>Bangor</name><ExtendedData>
+  <Data name="postcode"><value>LL57 4BG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bangor</value></Data></ExtendedData>
+  <Point><coordinates>-4.106535,53.206144</coordinates></Point></Placemark>
+<Placemark>
+<name>Bankhead</name><ExtendedData>
+  <Data name="postcode"><value>KY7 6GH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bankhead</value></Data></ExtendedData>
+  <Point><coordinates>-3.143849,56.183364</coordinates></Point></Placemark>
+<Placemark>
+<name>Barbican</name><ExtendedData>
+  <Data name="postcode"><value>BT32 4ET</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Barbican</value></Data></ExtendedData>
+  <Point><coordinates>-6.217684,54.367678</coordinates></Point></Placemark>
+<Placemark>
+<name>Barnetby</name><ExtendedData>
+  <Data name="postcode"><value>DN20 0PA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Barnetby</value></Data></ExtendedData>
+  <Point><coordinates>-0.416585,53.585669</coordinates></Point></Placemark>
+<Placemark>
+<name>Barnsdale_Bar</name><ExtendedData>
+  <Data name="postcode"><value>WF8 3JF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Barnsdale_Bar</value></Data></ExtendedData>
+  <Point><coordinates>-1.238125,53.625931</coordinates></Point></Placemark>
+<Placemark>
+<name>Barrow</name><ExtendedData>
+  <Data name="postcode"><value>BB7 9WF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Barrow</value></Data></ExtendedData>
+  <Point><coordinates>-2.394371,53.839998</coordinates></Point></Placemark>
+<Placemark>
+<name>Barthomley</name><ExtendedData>
+  <Data name="postcode"><value>CW2 5PT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Barthomley</value></Data></ExtendedData>
+  <Point><coordinates>-2.337201,53.068951</coordinates></Point></Placemark>
+<Placemark>
+<name>Barton_Mills</name><ExtendedData>
+  <Data name="postcode"><value>IP28 6AE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Barton_Mills</value></Data></ExtendedData>
+  <Point><coordinates>0.533537,52.338456</coordinates></Point></Placemark>
+<Placemark>
+<name>Barton_Park</name><ExtendedData>
+  <Data name="postcode"><value>DL10 6NA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Barton_Park</value></Data></ExtendedData>
+  <Point><coordinates>-1.663042,54.466893</coordinates></Point></Placemark>
+<Placemark>
+<name>Barton_Stacey</name><ExtendedData>
+  <Data name="postcode"><value>SO21 3NF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Barton_Stacey</value></Data></ExtendedData>
+  <Point><coordinates>-1.37802,51.180637</coordinates></Point></Placemark>
+<Placemark>
+<name>Battlefield</name><ExtendedData>
+  <Data name="postcode"><value>SY4 3EQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Battlefield</value></Data></ExtendedData>
+  <Point><coordinates>-2.717593,52.74786</coordinates></Point></Placemark>
+<Placemark>
+<name>Baynards_Green</name><ExtendedData>
+  <Data name="postcode"><value>OX27 7SG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Baynards_Green</value></Data></ExtendedData>
+  <Point><coordinates>-1.20207,51.96072</coordinates></Point></Placemark>
+<Placemark>
+<name>Beacon_Hill</name><ExtendedData>
+  <Data name="postcode"><value>IP6 8LP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Beacon_Hill</value></Data></ExtendedData>
+  <Point><coordinates>1.079871,52.147557</coordinates></Point></Placemark>
+<Placemark>
+<name>Beacon</name><ExtendedData>
+  <Data name="postcode"><value>HU15 1SA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Beacon</value></Data></ExtendedData>
+  <Point><coordinates>-0.646571,53.766749</coordinates></Point></Placemark>
+<Placemark>
+<name>Beaconsfield</name><ExtendedData>
+  <Data name="postcode"><value>HP9 2SE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Beaconsfield</value></Data></ExtendedData>
+  <Point><coordinates>-0.628195,51.587846</coordinates></Point></Placemark>
+<Placemark>
+<name>Beccles</name><ExtendedData>
+  <Data name="postcode"><value>NR34 0HF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Beccles</value></Data></ExtendedData>
+  <Point><coordinates>1.523366,52.487543</coordinates></Point></Placemark>
+<Placemark>
+<name>Beckington</name><ExtendedData>
+  <Data name="postcode"><value>BA11 6SF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Beckington</value></Data></ExtendedData>
+  <Point><coordinates>-2.284404,51.269312</coordinates></Point></Placemark>
+<Placemark>
+<name>Bedford</name><ExtendedData>
+  <Data name="postcode"><value>MK42 9BF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bedford</value></Data></ExtendedData>
+  <Point><coordinates>-0.477289,52.106571</coordinates></Point></Placemark>
+<Placemark>
+<name>Beechings_Way</name><ExtendedData>
+  <Data name="postcode"><value>ME8 6AD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Beechings_Way</value></Data></ExtendedData>
+  <Point><coordinates>0.576568,51.380889</coordinates></Point></Placemark>
+<Placemark>
+<name>Bell</name><ExtendedData>
+  <Data name="postcode"><value>DY9 9XU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bell</value></Data></ExtendedData>
+  <Point><coordinates>-2.08655,52.390902</coordinates></Point></Placemark>
+<Placemark>
+<name>Bellshill</name><ExtendedData>
+  <Data name="postcode"><value>ML4 3PD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bellshill</value></Data></ExtendedData>
+  <Point><coordinates>-4.040625,55.819802</coordinates></Point></Placemark>
+<Placemark>
+<name>Berkshire_Downs</name><ExtendedData>
+  <Data name="postcode"><value>OX11 0RW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Berkshire_Downs</value></Data></ExtendedData>
+  <Point><coordinates>-1.301428,51.562716</coordinates></Point></Placemark>
+<Placemark>
+<name>Bicester</name><ExtendedData>
+  <Data name="postcode"><value>OX26 1BT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bicester</value></Data></ExtendedData>
+  <Point><coordinates>-1.161752,51.893734</coordinates></Point></Placemark>
+<Placemark>
+<name>Bickenhill</name><ExtendedData>
+  <Data name="postcode"><value>B92 0EH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bickenhill</value></Data></ExtendedData>
+  <Point><coordinates>-1.721605,52.444814</coordinates></Point></Placemark>
+<Placemark>
+<name>Bicker_Bar</name><ExtendedData>
+  <Data name="postcode"><value>PE20 3AN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bicker_Bar</value></Data></ExtendedData>
+  <Point><coordinates>-0.158074,52.930435</coordinates></Point></Placemark>
+<Placemark>
+<name>Bilbrough</name><ExtendedData>
+  <Data name="postcode"><value>LS24 8EQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bilbrough</value></Data></ExtendedData>
+  <Point><coordinates>-1.197759,53.902811</coordinates></Point></Placemark>
+<Placemark>
+<name>Bilbrough_Top</name><ExtendedData>
+  <Data name="postcode"><value>YO23 3PP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bilbrough_Top</value></Data></ExtendedData>
+  <Point><coordinates>-1.184639,53.906408</coordinates></Point></Placemark>
+<Placemark>
+<name>Binley</name><ExtendedData>
+  <Data name="postcode"><value>CV3 2ZZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Binley</value></Data></ExtendedData>
+  <Point><coordinates>-1.439643,52.388753</coordinates></Point></Placemark>
+<Placemark>
+<name>Birchanger_Green</name><ExtendedData>
+  <Data name="postcode"><value>CM23 5QZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Birchanger_Green</value></Data></ExtendedData>
+  <Point><coordinates>0.194809,51.871647</coordinates></Point></Placemark>
+<Placemark>
+<name>Birch</name><ExtendedData>
+  <Data name="postcode"><value>OL10 2RB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Birch</value></Data></ExtendedData>
+  <Point><coordinates>-2.228462,53.566051</coordinates></Point></Placemark>
+<Placemark>
+<name>Blackburn_with_Darwen</name><ExtendedData>
+  <Data name="postcode"><value>BB3 0DB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Blackburn_with_Darwen</value></Data></ExtendedData>
+  <Point><coordinates>-2.476364,53.713152</coordinates></Point></Placemark>
+<Placemark>
+<name>Blendon</name><ExtendedData>
+  <Data name="postcode"><value>DA15 9NT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Blendon</value></Data></ExtendedData>
+  <Point><coordinates>0.115813,51.447978</coordinates></Point></Placemark>
+<Placemark>
+<name>Bloody_Oaks</name><ExtendedData>
+  <Data name="postcode"><value>PE9 4AD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bloody_Oaks</value></Data></ExtendedData>
+  <Point><coordinates>-0.533208,52.674133</coordinates></Point></Placemark>
+<Placemark>
+<name>Blue_Bell_Hill</name><ExtendedData>
+  <Data name="postcode"><value>ME20 7EZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Blue_Bell_Hill</value></Data></ExtendedData>
+  <Point><coordinates>0.506047,51.32012</coordinates></Point></Placemark>
+<Placemark>
+<name>Blyth</name><ExtendedData>
+  <Data name="postcode"><value>S81 8HG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Blyth</value></Data></ExtendedData>
+  <Point><coordinates>-1.062269,53.382096</coordinates></Point></Placemark>
+<Placemark>
+<name>Bobbing_Corner</name><ExtendedData>
+  <Data name="postcode"><value>ME9 8RZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bobbing_Corner</value></Data></ExtendedData>
+  <Point><coordinates>0.706987,51.35128</coordinates></Point></Placemark>
+<Placemark>
+<name>Bodmin_Moor</name><ExtendedData>
+  <Data name="postcode"><value>PL15 7RR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bodmin_Moor</value></Data></ExtendedData>
+  <Point><coordinates>-4.484012,50.596432</coordinates></Point></Placemark>
+<Placemark>
+<name>Boongate</name><ExtendedData>
+  <Data name="postcode"><value>PE1 5YA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Boongate</value></Data></ExtendedData>
+  <Point><coordinates>-0.21971,52.578059</coordinates></Point></Placemark>
+<Placemark>
+<name>Boship</name><ExtendedData>
+  <Data name="postcode"><value>BN27 4DP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Boship</value></Data></ExtendedData>
+  <Point><coordinates>0.231109,50.879231</coordinates></Point></Placemark>
+<Placemark>
+<name>Bothwell</name><ExtendedData>
+  <Data name="postcode"><value>G71 8BG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bothwell</value></Data></ExtendedData>
+  <Point><coordinates>-4.063512,55.815529</coordinates></Point></Placemark>
+<Placemark>
+<name>Bourne_End</name><ExtendedData>
+  <Data name="postcode"><value>HP1 2SB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bourne_End</value></Data></ExtendedData>
+  <Point><coordinates>-0.529759,51.741639</coordinates></Point></Placemark>
+<Placemark>
+<name>Brackley</name><ExtendedData>
+  <Data name="postcode"><value>NN13 5SZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Brackley</value></Data></ExtendedData>
+  <Point><coordinates>-1.137096,52.042216</coordinates></Point></Placemark>
+<Placemark>
+<name>Bradbury</name><ExtendedData>
+  <Data name="postcode"><value>TS21 2ES</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bradbury</value></Data></ExtendedData>
+  <Point><coordinates>-1.502692,54.648855</coordinates></Point></Placemark>
+<Placemark>
+<name>Braintree</name><ExtendedData>
+  <Data name="postcode"><value>CM77 7AB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Braintree</value></Data></ExtendedData>
+  <Point><coordinates>0.536594,51.868433</coordinates></Point></Placemark>
+<Placemark>
+<name>Braintree_Electric</name><ExtendedData>
+  <Data name="postcode"><value>CM77 7AP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Braintree_Electric</value></Data></ExtendedData>
+  <Point><coordinates>0.522111,51.853151</coordinates></Point></Placemark>
+<Placemark>
+<name>Brampton_Hut</name><ExtendedData>
+  <Data name="postcode"><value>PE28 4NQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Brampton_Hut</value></Data></ExtendedData>
+  <Point><coordinates>-0.252062,52.33148</coordinates></Point></Placemark>
+<Placemark>
+<name>Breakspear_Way</name><ExtendedData>
+  <Data name="postcode"><value>HP2 4TZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Breakspear_Way</value></Data></ExtendedData>
+  <Point><coordinates>-0.425633,51.755583</coordinates></Point></Placemark>
+<Placemark>
+<name>Brentwood</name><ExtendedData>
+  <Data name="postcode"><value>CM15 8SD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Brentwood</value></Data></ExtendedData>
+  <Point><coordinates>0.343425,51.644458</coordinates></Point></Placemark>
+<Placemark>
+<name>Bridgwater</name><ExtendedData>
+  <Data name="postcode"><value>TA6 6TS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Bridgwater</value></Data></ExtendedData>
+  <Point><coordinates>-2.994232,51.106063</coordinates></Point></Placemark>
+<Placemark>
+<name>Browns_Blue</name><ExtendedData>
+  <Data name="postcode"><value>LE67 9PU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Browns_Blue</value></Data></ExtendedData>
+  <Point><coordinates>-1.305293,52.700687</coordinates></Point></Placemark>
+<Placemark>
+<name>Broxden</name><ExtendedData>
+  <Data name="postcode"><value>PH2 0PX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Broxden</value></Data></ExtendedData>
+  <Point><coordinates>-3.481691,56.388004</coordinates></Point></Placemark>
+<Placemark>
+<name>Brundall</name><ExtendedData>
+  <Data name="postcode"><value>NR13 5AR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Brundall</value></Data></ExtendedData>
+  <Point><coordinates>1.428124,52.631921</coordinates></Point></Placemark>
+<Placemark>
+<name>Buckbarn</name><ExtendedData>
+  <Data name="postcode"><value>RH13 8LW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Buckbarn</value></Data></ExtendedData>
+  <Point><coordinates>-0.341098,50.991599</coordinates></Point></Placemark>
+<Placemark>
+<name>Buckingham</name><ExtendedData>
+  <Data name="postcode"><value>MK18 1SH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Buckingham</value></Data></ExtendedData>
+  <Point><coordinates>-0.977769,51.990061</coordinates></Point></Placemark>
+<Placemark>
+<name>Buckland</name><ExtendedData>
+  <Data name="postcode"><value>SN7 8PY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Buckland</value></Data></ExtendedData>
+  <Point><coordinates>-1.487863,51.679055</coordinates></Point></Placemark>
+<Placemark>
+<name>Budbrooke</name><ExtendedData>
+  <Data name="postcode"><value>CV35 8RH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Budbrooke</value></Data></ExtendedData>
+  <Point><coordinates>-1.612329,52.285257</coordinates></Point></Placemark>
+<Placemark>
+<name>Burton-in-Kendal</name><ExtendedData>
+  <Data name="postcode"><value>LA6 1JF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Burton-in-Kendal</value></Data></ExtendedData>
+  <Point><coordinates>-2.733711,54.179156</coordinates></Point></Placemark>
+<Placemark>
+<name>Burtonwood</name><ExtendedData>
+  <Data name="postcode"><value>WA5 3AX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Burtonwood</value></Data></ExtendedData>
+  <Point><coordinates>-2.637953,53.417246</coordinates></Point></Placemark>
+<Placemark>
+<name>Caenby_Corner</name><ExtendedData>
+  <Data name="postcode"><value>LN8 2AS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Caenby_Corner</value></Data></ExtendedData>
+  <Point><coordinates>-0.54789,53.393334</coordinates></Point></Placemark>
+<Placemark>
+<name>Cairn_Lodge</name><ExtendedData>
+  <Data name="postcode"><value>ML11 0RJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cairn_Lodge</value></Data></ExtendedData>
+  <Point><coordinates>-3.825562,55.58572</coordinates></Point></Placemark>
+<Placemark>
+<name>Calcutt</name><ExtendedData>
+  <Data name="postcode"><value>SN6 6JR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Calcutt</value></Data></ExtendedData>
+  <Point><coordinates>-1.837798,51.638225</coordinates></Point></Placemark>
+<Placemark>
+<name>Caldo_Windle</name><ExtendedData>
+  <Data name="postcode"><value>WA10 6QY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Caldo_Windle</value></Data></ExtendedData>
+  <Point><coordinates>-2.774377,53.469426</coordinates></Point></Placemark>
+<Placemark>
+<name>Cambridge</name><ExtendedData>
+  <Data name="postcode"><value>CB23 4WU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cambridge</value></Data></ExtendedData>
+  <Point><coordinates>-0.008821,52.268927</coordinates></Point></Placemark>
+<Placemark>
+<name>Canley_Ford</name><ExtendedData>
+  <Data name="postcode"><value>CV4 7BB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Canley_Ford</value></Data></ExtendedData>
+  <Point><coordinates>-1.549544,52.392037</coordinates></Point></Placemark>
+<Placemark>
+<name>Capelgate</name><ExtendedData>
+  <Data name="postcode"><value>IP9 2JJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Capelgate</value></Data></ExtendedData>
+  <Point><coordinates>1.05788,52.004929</coordinates></Point></Placemark>
+<Placemark>
+<name>Carcroft</name><ExtendedData>
+  <Data name="postcode"><value>DN6 8LR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Carcroft</value></Data></ExtendedData>
+  <Point><coordinates>-1.215502,53.588555</coordinates></Point></Placemark>
+<Placemark>
+<name>Cardiff_Gate</name><ExtendedData>
+  <Data name="postcode"><value>CF23 8RA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cardiff_Gate</value></Data></ExtendedData>
+  <Point><coordinates>-3.130235,51.539936</coordinates></Point></Placemark>
+<Placemark>
+<name>Cardiff_West</name><ExtendedData>
+  <Data name="postcode"><value>CF72 8SA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cardiff_West</value></Data></ExtendedData>
+  <Point><coordinates>-3.306801,51.508527</coordinates></Point></Placemark>
+<Placemark>
+<name>Carland_Cross</name><ExtendedData>
+  <Data name="postcode"><value>TR8 5AY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Carland_Cross</value></Data></ExtendedData>
+  <Point><coordinates>-5.025941,50.346953</coordinates></Point></Placemark>
+<Placemark>
+<name>Carlisle_Truckstop</name><ExtendedData>
+  <Data name="postcode"><value>CA3 0JR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Carlisle_Truckstop</value></Data></ExtendedData>
+  <Point><coordinates>-2.949064,54.92835</coordinates></Point></Placemark>
+<Placemark>
+<name>Carnforth</name><ExtendedData>
+  <Data name="postcode"><value>LA5 9RQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Carnforth</value></Data></ExtendedData>
+  <Point><coordinates>-2.75771,54.138446</coordinates></Point></Placemark>
+<Placemark>
+<name>Cartgate_Garage</name><ExtendedData>
+  <Data name="postcode"><value>TA14 6RA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cartgate_Garage</value></Data></ExtendedData>
+  <Point><coordinates>-2.751508,50.96174</coordinates></Point></Placemark>
+<Placemark>
+<name>Cartgate_picnic_area</name><ExtendedData>
+  <Data name="postcode"><value>TA14 6RA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cartgate_picnic_area</value></Data></ExtendedData>
+  <Point><coordinates>-2.751508,50.96174</coordinates></Point></Placemark>
+<Placemark>
+<name>Cawledge</name><ExtendedData>
+  <Data name="postcode"><value>NE66 2BF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cawledge</value></Data></ExtendedData>
+  <Point><coordinates>-1.692464,55.398215</coordinates></Point></Placemark>
+<Placemark>
+<name>Caxton_Gibbet</name><ExtendedData>
+  <Data name="postcode"><value>CB23 3PD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Caxton_Gibbet</value></Data></ExtendedData>
+  <Point><coordinates>-0.114608,52.230738</coordinates></Point></Placemark>
+<Placemark>
+<name>Centurion</name><ExtendedData>
+  <Data name="postcode"><value>GL7 7JR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Centurion</value></Data></ExtendedData>
+  <Point><coordinates>-2.034192,51.782007</coordinates></Point></Placemark>
+<Placemark>
+<name>Charnock_Richard</name><ExtendedData>
+  <Data name="postcode"><value>PR7 5LR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Charnock_Richard</value></Data></ExtendedData>
+  <Point><coordinates>-2.692571,53.629996</coordinates></Point></Placemark>
+<Placemark>
+<name>Chelmsford</name><ExtendedData>
+  <Data name="postcode"><value>CM2 5PY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Chelmsford</value></Data></ExtendedData>
+  <Point><coordinates>0.518993,51.75494</coordinates></Point></Placemark>
+<Placemark>
+<name>Cherwell_Valley</name><ExtendedData>
+  <Data name="postcode"><value>OX27 7RD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cherwell_Valley</value></Data></ExtendedData>
+  <Point><coordinates>-1.199931,51.95006</coordinates></Point></Placemark>
+<Placemark>
+<name>Chester</name><ExtendedData>
+  <Data name="postcode"><value>CH2 4QZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Chester</value></Data></ExtendedData>
+  <Point><coordinates>-2.802359,53.268279</coordinates></Point></Placemark>
+<Placemark>
+<name>Chicklade</name><ExtendedData>
+  <Data name="postcode"><value>SP3 5ST</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Chicklade</value></Data></ExtendedData>
+  <Point><coordinates>-2.130499,51.111017</coordinates></Point></Placemark>
+<Placemark>
+<name>Chieveley</name><ExtendedData>
+  <Data name="postcode"><value>RG18 9XX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Chieveley</value></Data></ExtendedData>
+  <Point><coordinates>-1.309575,51.450451</coordinates></Point></Placemark>
+<Placemark>
+<name>Chimes</name><ExtendedData>
+  <Data name="postcode"><value>BR6 7SE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Chimes</value></Data></ExtendedData>
+  <Point><coordinates>0.107909,51.345358</coordinates></Point></Placemark>
+<Placemark>
+<name>Chippenham_Pit_Stop</name><ExtendedData>
+  <Data name="postcode"><value>SN15 5LH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Chippenham_Pit_Stop</value></Data></ExtendedData>
+  <Point><coordinates>-2.10498,51.511877</coordinates></Point></Placemark>
+<Placemark>
+<name>Chippenham</name><ExtendedData>
+  <Data name="postcode"><value>SN14 6UY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Chippenham</value></Data></ExtendedData>
+  <Point><coordinates>-2.129526,51.478386</coordinates></Point></Placemark>
+<Placemark>
+<name>Chiverton_Cross</name><ExtendedData>
+  <Data name="postcode"><value>TR4 8HS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Chiverton_Cross</value></Data></ExtendedData>
+  <Point><coordinates>-5.165736,50.279384</coordinates></Point></Placemark>
+<Placemark>
+<name>Cirencester</name><ExtendedData>
+  <Data name="postcode"><value>GL7 5DS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cirencester</value></Data></ExtendedData>
+  <Point><coordinates>-1.951676,51.724698</coordinates></Point></Placemark>
+<Placemark>
+<name>Clacket_Lane</name><ExtendedData>
+  <Data name="postcode"><value>TN16 2ER</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Clacket_Lane</value></Data></ExtendedData>
+  <Point><coordinates>0.039848,51.27104</coordinates></Point></Placemark>
+<Placemark>
+<name>Coastways</name><ExtendedData>
+  <Data name="postcode"><value>YO43 3PN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Coastways</value></Data></ExtendedData>
+  <Point><coordinates>-0.701524,53.874103</coordinates></Point></Placemark>
+<Placemark>
+<name>Cobham_(A2)</name><ExtendedData>
+  <Data name="postcode"><value>DA12 3BH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cobham_(A2)</value></Data></ExtendedData>
+  <Point><coordinates>0.40152,51.400914</coordinates></Point></Placemark>
+<Placemark>
+<name>Cobham</name><ExtendedData>
+  <Data name="postcode"><value>KT11 3DB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cobham</value></Data></ExtendedData>
+  <Point><coordinates>-0.405875,51.304268</coordinates></Point></Placemark>
+<Placemark>
+<name>Cohannon</name><ExtendedData>
+  <Data name="postcode"><value>BT71 6HJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cohannon</value></Data></ExtendedData>
+  <Point><coordinates>-6.658127,54.500667</coordinates></Point></Placemark>
+<Placemark>
+<name>Colchester</name><ExtendedData>
+  <Data name="postcode"><value>CO4 5HH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Colchester</value></Data></ExtendedData>
+  <Point><coordinates>0.895176,51.926541</coordinates></Point></Placemark>
+<Placemark>
+<name>Collin</name><ExtendedData>
+  <Data name="postcode"><value>DG1 3SE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Collin</value></Data></ExtendedData>
+  <Point><coordinates>-3.554767,55.068304</coordinates></Point></Placemark>
+<Placemark>
+<name>Collingtree</name><ExtendedData>
+  <Data name="postcode"><value>NN4 0JN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Collingtree</value></Data></ExtendedData>
+  <Point><coordinates>-0.891688,52.194487</coordinates></Point></Placemark>
+<Placemark>
+<name>Colsterworth</name><ExtendedData>
+  <Data name="postcode"><value>NG33 5JR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Colsterworth</value></Data></ExtendedData>
+  <Point><coordinates>-0.609887,52.802303</coordinates></Point></Placemark>
+<Placemark>
+<name>Colsterworth_(North)</name><ExtendedData>
+  <Data name="postcode"><value>NG33 5JJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Colsterworth_(North)</value></Data></ExtendedData>
+  <Point><coordinates>-0.613289,52.806076</coordinates></Point></Placemark>
+<Placemark>
+<name>Commerce_Park</name><ExtendedData>
+  <Data name="postcode"><value>BA11 2RY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Commerce_Park</value></Data></ExtendedData>
+  <Point><coordinates>-2.291747,51.24292</coordinates></Point></Placemark>
+<Placemark>
+<name>Coneygarth</name><ExtendedData>
+  <Data name="postcode"><value>DL7 9EG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Coneygarth</value></Data></ExtendedData>
+  <Point><coordinates>-1.568597,54.311852</coordinates></Point></Placemark>
+<Placemark>
+<name>Copdock</name><ExtendedData>
+  <Data name="postcode"><value>IP8 3TT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Copdock</value></Data></ExtendedData>
+  <Point><coordinates>1.099561,52.041015</coordinates></Point></Placemark>
+<Placemark>
+<name>Corley</name><ExtendedData>
+  <Data name="postcode"><value>CV7 8NR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Corley</value></Data></ExtendedData>
+  <Point><coordinates>-1.546728,52.471822</coordinates></Point></Placemark>
+<Placemark>
+<name>Cornwall</name><ExtendedData>
+  <Data name="postcode"><value>PL26 8UF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cornwall</value></Data></ExtendedData>
+  <Point><coordinates>-4.8158,50.425987</coordinates></Point></Placemark>
+<Placemark>
+<name>Countess</name><ExtendedData>
+  <Data name="postcode"><value>SP4 7AS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Countess</value></Data></ExtendedData>
+  <Point><coordinates>-1.782257,51.179717</coordinates></Point></Placemark>
+<Placemark>
+<name>Country</name><ExtendedData>
+  <Data name="postcode"><value>PE8 6TZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Country</value></Data></ExtendedData>
+  <Point><coordinates>-0.426394,52.506973</coordinates></Point></Placemark>
+<Placemark>
+<name>Cromwell</name><ExtendedData>
+  <Data name="postcode"><value>NG23 6JG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cromwell</value></Data></ExtendedData>
+  <Point><coordinates>-0.805111,53.144224</coordinates></Point></Placemark>
+<Placemark>
+<name>Crossbush</name><ExtendedData>
+  <Data name="postcode"><value>BN17 7QQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Crossbush</value></Data></ExtendedData>
+  <Point><coordinates>-0.5419,50.839958</coordinates></Point></Placemark>
+<Placemark>
+<name>Crossgates</name><ExtendedData>
+  <Data name="postcode"><value>LD1 6RE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Crossgates</value></Data></ExtendedData>
+  <Point><coordinates>-3.330888,52.273816</coordinates></Point></Placemark>
+<Placemark>
+<name>Cross_Hands</name><ExtendedData>
+  <Data name="postcode"><value>SA14 6RD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cross_Hands</value></Data></ExtendedData>
+  <Point><coordinates>-4.083697,51.797565</coordinates></Point></Placemark>
+<Placemark>
+<name>Cullompton</name><ExtendedData>
+  <Data name="postcode"><value>EX15 1PA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Cullompton</value></Data></ExtendedData>
+  <Point><coordinates>-3.37512,50.857254</coordinates></Point></Placemark>
+<Placemark>
+<name>Daff-Y-Nant</name><ExtendedData>
+  <Data name="postcode"><value>HR9 6DW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Daff-Y-Nant</value></Data></ExtendedData>
+  <Point><coordinates>-2.667376,51.849034</coordinates></Point></Placemark>
+<Placemark>
+<name>Darrington</name><ExtendedData>
+  <Data name="postcode"><value>WF8 3HU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Darrington</value></Data></ExtendedData>
+  <Point><coordinates>-1.266021,53.663263</coordinates></Point></Placemark>
+<Placemark>
+<name>Darsham</name><ExtendedData>
+  <Data name="postcode"><value>IP17 3PW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Darsham</value></Data></ExtendedData>
+  <Point><coordinates>1.527116,52.274786</coordinates></Point></Placemark>
+<Placemark>
+<name>Deanshanger</name><ExtendedData>
+  <Data name="postcode"><value>MK19 6JU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Deanshanger</value></Data></ExtendedData>
+  <Point><coordinates>-0.886456,52.042921</coordinates></Point></Placemark>
+<Placemark>
+<name>Derby_and_Burton</name><ExtendedData>
+  <Data name="postcode"><value>DE65 6DX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Derby_and_Burton</value></Data></ExtendedData>
+  <Point><coordinates>-1.564104,52.863948</coordinates></Point></Placemark>
+<Placemark>
+<name>Derby_South</name><ExtendedData>
+  <Data name="postcode"><value>DE72 2WA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Derby_South</value></Data></ExtendedData>
+  <Point><coordinates>-1.370986,52.867856</coordinates></Point></Placemark>
+<Placemark>
+<name>Detling_Hill</name><ExtendedData>
+  <Data name="postcode"><value>ME14 3HT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Detling_Hill</value></Data></ExtendedData>
+  <Point><coordinates>0.598862,51.301746</coordinates></Point></Placemark>
+<Placemark>
+<name>Doddington</name><ExtendedData>
+  <Data name="postcode"><value>LN6 3SE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Doddington</value></Data></ExtendedData>
+  <Point><coordinates>-0.615057,53.207205</coordinates></Point></Placemark>
+<Placemark>
+<name>Dodwells</name><ExtendedData>
+  <Data name="postcode"><value>LE10 3ED</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Dodwells</value></Data></ExtendedData>
+  <Point><coordinates>-1.409383,52.533283</coordinates></Point></Placemark>
+<Placemark>
+<name>Doncaster_(North)</name><ExtendedData>
+  <Data name="postcode"><value>DN8 5GS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Doncaster_(North)</value></Data></ExtendedData>
+  <Point><coordinates>-0.992325,53.592151</coordinates></Point></Placemark>
+<Placemark>
+<name>Donington</name><ExtendedData>
+  <Data name="postcode"><value>DE74 2TN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Donington</value></Data></ExtendedData>
+  <Point><coordinates>-1.308152,52.82176</coordinates></Point></Placemark>
+<Placemark>
+<name>Dover_Port</name><ExtendedData>
+  <Data name="postcode"><value>CT16 1JA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Dover_Port</value></Data></ExtendedData>
+  <Point><coordinates>1.334821,51.129204</coordinates></Point></Placemark>
+<Placemark>
+<name>Dreghorn</name><ExtendedData>
+  <Data name="postcode"><value>EH13 9QR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Dreghorn</value></Data></ExtendedData>
+  <Point><coordinates>-3.232593,55.901088</coordinates></Point></Placemark>
+<Placemark>
+<name>Dublin_Road</name><ExtendedData>
+  <Data name="postcode"><value>BT35 8RL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Dublin_Road</value></Data></ExtendedData>
+  <Point><coordinates>-6.353573,54.121457</coordinates></Point></Placemark>
+<Placemark>
+<name>Ducklington</name><ExtendedData>
+  <Data name="postcode"><value>OX28 4TT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ducklington</value></Data></ExtendedData>
+  <Point><coordinates>-1.49248,51.774351</coordinates></Point></Placemark>
+<Placemark>
+<name>Dumbarton_Gateway</name><ExtendedData>
+  <Data name="postcode"><value>G82 2TZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Dumbarton_Gateway</value></Data></ExtendedData>
+  <Point><coordinates>-4.516692,55.935568</coordinates></Point></Placemark>
+<Placemark>
+<name>Dungannon</name><ExtendedData>
+  <Data name="postcode"><value>BT70 1AE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Dungannon</value></Data></ExtendedData>
+  <Point><coordinates>-6.782159,54.47979</coordinates></Point></Placemark>
+<Placemark>
+<name>Durham</name><ExtendedData>
+  <Data name="postcode"><value>DH6 5NP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Durham</value></Data></ExtendedData>
+  <Point><coordinates>-1.523024,54.727922</coordinates></Point></Placemark>
+<Placemark>
+<name>Eashing</name><ExtendedData>
+  <Data name="postcode"><value>GU7 2QG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Eashing</value></Data></ExtendedData>
+  <Point><coordinates>-0.648673,51.186411</coordinates></Point></Placemark>
+<Placemark>
+<name>Easington</name><ExtendedData>
+  <Data name="postcode"><value>SR7 8SS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Easington</value></Data></ExtendedData>
+  <Point><coordinates>-1.359634,54.802585</coordinates></Point></Placemark>
+<Placemark>
+<name>East_Horndon</name><ExtendedData>
+  <Data name="postcode"><value>CM13 3LL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/East_Horndon</value></Data></ExtendedData>
+  <Point><coordinates>0.355577,51.579905</coordinates></Point></Placemark>
+<Placemark>
+<name>Elwick</name><ExtendedData>
+  <Data name="postcode"><value>TS27 3HH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Elwick</value></Data></ExtendedData>
+  <Point><coordinates>-1.303035,54.655376</coordinates></Point></Placemark>
+<Placemark>
+<name>Ely</name><ExtendedData>
+  <Data name="postcode"><value>CB6 3NN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ely</value></Data></ExtendedData>
+  <Point><coordinates>0.238684,52.390398</coordinates></Point></Placemark>
+<Placemark>
+<name>Evesham</name><ExtendedData>
+  <Data name="postcode"><value>WR11 4TP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Evesham</value></Data></ExtendedData>
+  <Point><coordinates>-1.943843,52.112044</coordinates></Point></Placemark>
+<Placemark>
+<name>Exeter</name><ExtendedData>
+  <Data name="postcode"><value>EX2 7HF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Exeter</value></Data></ExtendedData>
+  <Point><coordinates>-3.4644,50.71413</coordinates></Point></Placemark>
+<Placemark>
+<name>Eye_Green</name><ExtendedData>
+  <Data name="postcode"><value>PE6 7TN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Eye_Green</value></Data></ExtendedData>
+  <Point><coordinates>-0.186807,52.612507</coordinates></Point></Placemark>
+<Placemark>
+<name>Eye</name><ExtendedData>
+  <Data name="postcode"><value>PE1 4BF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Eye</value></Data></ExtendedData>
+  <Point><coordinates>-0.210785,52.599728</coordinates></Point></Placemark>
+<Placemark>
+<name>Eynsham</name><ExtendedData>
+  <Data name="postcode"><value>OX29 4EN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Eynsham</value></Data></ExtendedData>
+  <Point><coordinates>-1.366947,51.788056</coordinates></Point></Placemark>
+<Placemark>
+<name>Fairfield</name><ExtendedData>
+  <Data name="postcode"><value>LN11 0WA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Fairfield</value></Data></ExtendedData>
+  <Point><coordinates>-0.00755,53.38319</coordinates></Point></Placemark>
+<Placemark>
+<name>Family_Farm</name><ExtendedData>
+  <Data name="postcode"><value>OX25 3QQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Family_Farm</value></Data></ExtendedData>
+  <Point><coordinates>-1.229493,51.850014</coordinates></Point></Placemark>
+<Placemark>
+<name>Farlington</name><ExtendedData>
+  <Data name="postcode"><value>PO6 1UN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Farlington</value></Data></ExtendedData>
+  <Point><coordinates>-1.041313,50.836181</coordinates></Point></Placemark>
+<Placemark>
+<name>Farnham</name><ExtendedData>
+  <Data name="postcode"><value>GU9 8SS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Farnham</value></Data></ExtendedData>
+  <Point><coordinates>-0.789509,51.215641</coordinates></Point></Placemark>
+<Placemark>
+<name>Feering</name><ExtendedData>
+  <Data name="postcode"><value>CO5 9EL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Feering</value></Data></ExtendedData>
+  <Point><coordinates>0.730889,51.852516</coordinates></Point></Placemark>
+<Placemark>
+<name>Fenstanton</name><ExtendedData>
+  <Data name="postcode"><value>CB23 4LU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Fenstanton</value></Data></ExtendedData>
+  <Point><coordinates>-0.052014,52.282938</coordinates></Point></Placemark>
+<Placemark>
+<name>Ferrybridge</name><ExtendedData>
+  <Data name="postcode"><value>WF11 0AF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ferrybridge</value></Data></ExtendedData>
+  <Point><coordinates>-1.266666,53.697602</coordinates></Point></Placemark>
+<Placemark>
+<name>Ferrymuir</name><ExtendedData>
+  <Data name="postcode"><value>EH30 9QZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ferrymuir</value></Data></ExtendedData>
+  <Point><coordinates>-3.398868,55.982798</coordinates></Point></Placemark>
+<Placemark>
+<name>Finavon</name><ExtendedData>
+  <Data name="postcode"><value>DD8 3QD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Finavon</value></Data></ExtendedData>
+  <Point><coordinates>-2.827899,56.706808</coordinates></Point></Placemark>
+<Placemark>
+<name>Fleet</name><ExtendedData>
+  <Data name="postcode"><value>GU51 1AA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Fleet</value></Data></ExtendedData>
+  <Point><coordinates>-0.855807,51.295546</coordinates></Point></Placemark>
+<Placemark>
+<name>Folkestone</name><ExtendedData>
+  <Data name="postcode"><value>CT21 4BL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Folkestone</value></Data></ExtendedData>
+  <Point><coordinates>1.04408,51.094991</coordinates></Point></Placemark>
+<Placemark>
+<name>Folly_Tower</name><ExtendedData>
+  <Data name="postcode"><value>NP4 0XB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Folly_Tower</value></Data></ExtendedData>
+  <Point><coordinates>-3.021239,51.692794</coordinates></Point></Placemark>
+<Placemark>
+<name>Fontwell</name><ExtendedData>
+  <Data name="postcode"><value>BN18 0SB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Fontwell</value></Data></ExtendedData>
+  <Point><coordinates>-0.64726,50.854564</coordinates></Point></Placemark>
+<Placemark>
+<name>Forthview</name><ExtendedData>
+  <Data name="postcode"><value>EH30 9YJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Forthview</value></Data></ExtendedData>
+  <Point><coordinates>-3.406828,55.984023</coordinates></Point></Placemark>
+<Placemark>
+<name>Fosseway</name><ExtendedData>
+  <Data name="postcode"><value>NG12 2JU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Fosseway</value></Data></ExtendedData>
+  <Point><coordinates>-1.008228,52.916895</coordinates></Point></Placemark>
+<Placemark>
+<name>Foston</name><ExtendedData>
+  <Data name="postcode"><value>NG32 2JS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Foston</value></Data></ExtendedData>
+  <Point><coordinates>-0.724196,52.972297</coordinates></Point></Placemark>
+<Placemark>
+<name>Four_Pools</name><ExtendedData>
+  <Data name="postcode"><value>WR11 2UT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Four_Pools</value></Data></ExtendedData>
+  <Point><coordinates>-1.938341,52.07749</coordinates></Point></Placemark>
+<Placemark>
+<name>Fourwentways</name><ExtendedData>
+  <Data name="postcode"><value>CB21 6AP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Fourwentways</value></Data></ExtendedData>
+  <Point><coordinates>0.222478,52.126784</coordinates></Point></Placemark>
+<Placemark>
+<name>Frankley</name><ExtendedData>
+  <Data name="postcode"><value>B32 4AR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Frankley</value></Data></ExtendedData>
+  <Point><coordinates>-2.016583,52.430009</coordinates></Point></Placemark>
+<Placemark>
+<name>Frontier_Park</name><ExtendedData>
+  <Data name="postcode"><value>BB1 4AU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Frontier_Park</value></Data></ExtendedData>
+  <Point><coordinates>-2.441187,53.758495</coordinates></Point></Placemark>
+<Placemark>
+<name>Galleys_Corner</name><ExtendedData>
+  <Data name="postcode"><value>CM77 8GG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Galleys_Corner</value></Data></ExtendedData>
+  <Point><coordinates>0.581852,51.869309</coordinates></Point></Placemark>
+<Placemark>
+<name>Gate</name><ExtendedData>
+  <Data name="postcode"><value>ME13 9LN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Gate</value></Data></ExtendedData>
+  <Point><coordinates>0.99572,51.289413</coordinates></Point></Placemark>
+<Placemark>
+<name>Gateway</name><ExtendedData>
+  <Data name="postcode"><value>CH7 6HB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Gateway</value></Data></ExtendedData>
+  <Point><coordinates>-3.090834,53.197766</coordinates></Point></Placemark>
+<Placemark>
+<name>Gledrid</name><ExtendedData>
+  <Data name="postcode"><value>SY11 3EN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Gledrid</value></Data></ExtendedData>
+  <Point><coordinates>-3.042888,52.913627</coordinates></Point></Placemark>
+<Placemark>
+<name>Glenshane</name><ExtendedData>
+  <Data name="postcode"><value>BT46 5JZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Glenshane</value></Data></ExtendedData>
+  <Point><coordinates>-6.739531,54.851055</coordinates></Point></Placemark>
+<Placemark>
+<name>Glinton</name><ExtendedData>
+  <Data name="postcode"><value>PE6 7JR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Glinton</value></Data></ExtendedData>
+  <Point><coordinates>-0.297906,52.63772</coordinates></Point></Placemark>
+<Placemark>
+<name>Gloucester</name><ExtendedData>
+  <Data name="postcode"><value>GL4 0DN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Gloucester</value></Data></ExtendedData>
+  <Point><coordinates>-2.228629,51.820244</coordinates></Point></Placemark>
+<Placemark>
+<name>Golden_Fleece</name><ExtendedData>
+  <Data name="postcode"><value>CA4 0AN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Golden_Fleece</value></Data></ExtendedData>
+  <Point><coordinates>-2.875933,54.856406</coordinates></Point></Placemark>
+<Placemark>
+<name>Gordano</name><ExtendedData>
+  <Data name="postcode"><value>BS20 7XG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Gordano</value></Data></ExtendedData>
+  <Point><coordinates>-2.707929,51.477507</coordinates></Point></Placemark>
+<Placemark>
+<name>Gowy</name><ExtendedData>
+  <Data name="postcode"><value>CH3 7HN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Gowy</value></Data></ExtendedData>
+  <Point><coordinates>-2.818193,53.19839</coordinates></Point></Placemark>
+<Placemark>
+<name>Grand_Dale</name><ExtendedData>
+  <Data name="postcode"><value>HU14 3HG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Grand_Dale</value></Data></ExtendedData>
+  <Point><coordinates>-0.526065,53.72458</coordinates></Point></Placemark>
+<Placemark>
+<name>Grange_Farm</name><ExtendedData>
+  <Data name="postcode"><value>NN4 0LY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Grange_Farm</value></Data></ExtendedData>
+  <Point><coordinates>-0.891853,52.193725</coordinates></Point></Placemark>
+<Placemark>
+<name>Grantham_North</name><ExtendedData>
+  <Data name="postcode"><value>NG32 2AB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Grantham_North</value></Data></ExtendedData>
+  <Point><coordinates>-0.677963,52.950611</coordinates></Point></Placemark>
+<Placemark>
+<name>Great_Dunmow</name><ExtendedData>
+  <Data name="postcode"><value>CM6 1SJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Great_Dunmow</value></Data></ExtendedData>
+  <Point><coordinates>0.33571,51.869401</coordinates></Point></Placemark>
+<Placemark>
+<name>Great_Ponton</name><ExtendedData>
+  <Data name="postcode"><value>NG33 5DW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Great_Ponton</value></Data></ExtendedData>
+  <Point><coordinates>-0.629876,52.860576</coordinates></Point></Placemark>
+<Placemark>
+<name>Gretna</name><ExtendedData>
+  <Data name="postcode"><value>DG16 5HQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Gretna</value></Data></ExtendedData>
+  <Point><coordinates>-3.084493,55.010343</coordinates></Point></Placemark>
+<Placemark>
+<name>Greystones</name><ExtendedData>
+  <Data name="postcode"><value>LA11 6RJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Greystones</value></Data></ExtendedData>
+  <Point><coordinates>-2.861933,54.234172</coordinates></Point></Placemark>
+<Placemark>
+<name>Gristhwaite</name><ExtendedData>
+  <Data name="postcode"><value>YO7 3HN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Gristhwaite</value></Data></ExtendedData>
+  <Point><coordinates>-1.362669,54.197969</coordinates></Point></Placemark>
+<Placemark>
+<name>Halfway_House</name><ExtendedData>
+  <Data name="postcode"><value>SY5 9DU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Halfway_House</value></Data></ExtendedData>
+  <Point><coordinates>-2.968039,52.699234</coordinates></Point></Placemark>
+<Placemark>
+<name>Halt</name><ExtendedData>
+  <Data name="postcode"><value>LD1 6NN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Halt</value></Data></ExtendedData>
+  <Point><coordinates>-3.497097,52.260953</coordinates></Point></Placemark>
+<Placemark>
+<name>Hamilton</name><ExtendedData>
+  <Data name="postcode"><value>ML3 6JW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hamilton</value></Data></ExtendedData>
+  <Point><coordinates>-4.035104,55.787109</coordinates></Point></Placemark>
+<Placemark>
+<name>Handcross</name><ExtendedData>
+  <Data name="postcode"><value>RH17 6BL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Handcross</value></Data></ExtendedData>
+  <Point><coordinates>-0.199348,51.054781</coordinates></Point></Placemark>
+<Placemark>
+<name>Harbledown</name><ExtendedData>
+  <Data name="postcode"><value>CT2 9AZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Harbledown</value></Data></ExtendedData>
+  <Point><coordinates>1.014747,51.287337</coordinates></Point></Placemark>
+<Placemark>
+<name>Hardwicke</name><ExtendedData>
+  <Data name="postcode"><value>GL2 2RQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hardwicke</value></Data></ExtendedData>
+  <Point><coordinates>-2.290669,51.805422</coordinates></Point></Placemark>
+<Placemark>
+<name>Hartlebury</name><ExtendedData>
+  <Data name="postcode"><value>DY11 7XP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hartlebury</value></Data></ExtendedData>
+  <Point><coordinates>-2.223886,52.324581</coordinates></Point></Placemark>
+<Placemark>
+<name>Hartshead_Moor</name><ExtendedData>
+  <Data name="postcode"><value>HD6 4JX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hartshead_Moor</value></Data></ExtendedData>
+  <Point><coordinates>-1.74646,53.714327</coordinates></Point></Placemark>
+<Placemark>
+<name>Haydock_Island</name><ExtendedData>
+  <Data name="postcode"><value>WA12 0HL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Haydock_Island</value></Data></ExtendedData>
+  <Point><coordinates>-2.635718,53.472177</coordinates></Point></Placemark>
+<Placemark>
+<name>Hayle</name><ExtendedData>
+  <Data name="postcode"><value>TR27 5DG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hayle</value></Data></ExtendedData>
+  <Point><coordinates>-5.395741,50.197856</coordinates></Point></Placemark>
+<Placemark>
+<name>Hazelgrove</name><ExtendedData>
+  <Data name="postcode"><value>BA22 7JE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hazelgrove</value></Data></ExtendedData>
+  <Point><coordinates>-2.572282,51.029424</coordinates></Point></Placemark>
+<Placemark>
+<name>Heartlands</name><ExtendedData>
+  <Data name="postcode"><value>EH47 0TB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Heartlands</value></Data></ExtendedData>
+  <Point><coordinates>-3.703131,55.868614</coordinates></Point></Placemark>
+<Placemark>
+<name>Heart_of_Scotland</name><ExtendedData>
+  <Data name="postcode"><value>ML7 5TT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Heart_of_Scotland</value></Data></ExtendedData>
+  <Point><coordinates>-3.747481,55.868472</coordinates></Point></Placemark>
+<Placemark>
+<name>Heath</name><ExtendedData>
+  <Data name="postcode"><value>S44 5SF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Heath</value></Data></ExtendedData>
+  <Point><coordinates>-1.342216,53.200169</coordinates></Point></Placemark>
+<Placemark>
+<name>Heston</name><ExtendedData>
+  <Data name="postcode"><value>TW5 9NB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Heston</value></Data></ExtendedData>
+  <Point><coordinates>-0.396126,51.486656</coordinates></Point></Placemark>
+<Placemark>
+<name>Hickstead</name><ExtendedData>
+  <Data name="postcode"><value>RH17 5NZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hickstead</value></Data></ExtendedData>
+  <Point><coordinates>-0.190427,50.968407</coordinates></Point></Placemark>
+<Placemark>
+<name>High_Brough_Moor</name><ExtendedData>
+  <Data name="postcode"><value>DL10 6PB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/High_Brough_Moor</value></Data></ExtendedData>
+  <Point><coordinates>-1.668298,54.428445</coordinates></Point></Placemark>
+<Placemark>
+<name>Hillsborough</name><ExtendedData>
+  <Data name="postcode"><value>BT26 6JA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hillsborough</value></Data></ExtendedData>
+  <Point><coordinates>-6.11193,54.443673</coordinates></Point></Placemark>
+<Placemark>
+<name>Hilton_Park</name><ExtendedData>
+  <Data name="postcode"><value>WV11 2AT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hilton_Park</value></Data></ExtendedData>
+  <Point><coordinates>-2.054986,52.64243</coordinates></Point></Placemark>
+<Placemark>
+<name>Hinckley</name><ExtendedData>
+  <Data name="postcode"><value>LE10 3ED</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hinckley</value></Data></ExtendedData>
+  <Point><coordinates>-1.409383,52.533283</coordinates></Point></Placemark>
+<Placemark>
+<name>Hogs_Back</name><ExtendedData>
+  <Data name="postcode"><value>GU10 1EU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hogs_Back</value></Data></ExtendedData>
+  <Point><coordinates>-0.726141,51.225876</coordinates></Point></Placemark>
+<Placemark>
+<name>Honiton</name><ExtendedData>
+  <Data name="postcode"><value>EX14 1BQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Honiton</value></Data></ExtendedData>
+  <Point><coordinates>-3.206498,50.795585</coordinates></Point></Placemark>
+<Placemark>
+<name>Hop_Oast</name><ExtendedData>
+  <Data name="postcode"><value>RH13 0AR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hop_Oast</value></Data></ExtendedData>
+  <Point><coordinates>-0.345674,51.045285</coordinates></Point></Placemark>
+<Placemark>
+<name>Hopwood_Park</name><ExtendedData>
+  <Data name="postcode"><value>B48 7AU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hopwood_Park</value></Data></ExtendedData>
+  <Point><coordinates>-1.945766,52.363718</coordinates></Point></Placemark>
+<Placemark>
+<name>Horsham</name><ExtendedData>
+  <Data name="postcode"><value>RH12 3NS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Horsham</value></Data></ExtendedData>
+  <Point><coordinates>-0.354206,51.069794</coordinates></Point></Placemark>
+<Placemark>
+<name>Hovefield</name><ExtendedData>
+  <Data name="postcode"><value>SS12 9HZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hovefield</value></Data></ExtendedData>
+  <Point><coordinates>0.528397,51.590267</coordinates></Point></Placemark>
+<Placemark>
+<name>Hull_West</name><ExtendedData>
+  <Data name="postcode"><value>HU14 3LN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Hull_West</value></Data></ExtendedData>
+  <Point><coordinates>-0.482009,53.723849</coordinates></Point></Placemark>
+<Placemark>
+<name>Ilminster</name><ExtendedData>
+  <Data name="postcode"><value>TA19 9PT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ilminster</value></Data></ExtendedData>
+  <Point><coordinates>-2.940705,50.933958</coordinates></Point></Placemark>
+<Placemark>
+<name>Ingleby_Arncliffe</name><ExtendedData>
+  <Data name="postcode"><value>DL6 3JT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ingleby_Arncliffe</value></Data></ExtendedData>
+  <Point><coordinates>-1.320214,54.404842</coordinates></Point></Placemark>
+<Placemark>
+<name>Ings</name><ExtendedData>
+  <Data name="postcode"><value>LA8 9PY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ings</value></Data></ExtendedData>
+  <Point><coordinates>-2.853198,54.380245</coordinates></Point></Placemark>
+<Placemark>
+<name>Interchange</name><ExtendedData>
+  <Data name="postcode"><value>NG24 2DF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Interchange</value></Data></ExtendedData>
+  <Point><coordinates>-0.790774,53.090306</coordinates></Point></Placemark>
+<Placemark>
+<name>J29_Truckstop</name><ExtendedData>
+  <Data name="postcode"><value>S42 5SA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/J29_Truckstop</value></Data></ExtendedData>
+  <Point><coordinates>-1.350518,53.186766</coordinates></Point></Placemark>
+<Placemark>
+<name>J38_Truckstop</name><ExtendedData>
+  <Data name="postcode"><value>CA10 3SS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/J38_Truckstop</value></Data></ExtendedData>
+  <Point><coordinates>-2.593409,54.43914</coordinates></Point></Placemark>
+<Placemark>
+<name>Jeremys_Corner</name><ExtendedData>
+  <Data name="postcode"><value>RH17 5QD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Jeremys_Corner</value></Data></ExtendedData>
+  <Point><coordinates>-0.199686,51.012227</coordinates></Point></Placemark>
+<Placemark>
+<name>Jubilee</name><ExtendedData>
+  <Data name="postcode"><value>CT15 5FD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Jubilee</value></Data></ExtendedData>
+  <Point><coordinates>1.330364,51.144533</coordinates></Point></Placemark>
+<Placemark>
+<name>Keele</name><ExtendedData>
+  <Data name="postcode"><value>ST5 5HG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Keele</value></Data></ExtendedData>
+  <Point><coordinates>-2.2909,52.992774</coordinates></Point></Placemark>
+<Placemark>
+<name>Kennford</name><ExtendedData>
+  <Data name="postcode"><value>EX6 7UD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kennford</value></Data></ExtendedData>
+  <Point><coordinates>-3.537292,50.661252</coordinates></Point></Placemark>
+<Placemark>
+<name>Kettering</name><ExtendedData>
+  <Data name="postcode"><value>NN14 1RW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kettering</value></Data></ExtendedData>
+  <Point><coordinates>-0.730875,52.380626</coordinates></Point></Placemark>
+<Placemark>
+<name>Killington_Lake</name><ExtendedData>
+  <Data name="postcode"><value>LA8 0NW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Killington_Lake</value></Data></ExtendedData>
+  <Point><coordinates>-2.635838,54.313625</coordinates></Point></Placemark>
+<Placemark>
+<name>Kilmarnock</name><ExtendedData>
+  <Data name="postcode"><value>KA1 5LQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kilmarnock</value></Data></ExtendedData>
+  <Point><coordinates>-4.471808,55.597173</coordinates></Point></Placemark>
+<Placemark>
+<name>Kilmington_Cross</name><ExtendedData>
+  <Data name="postcode"><value>EX13 7RB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kilmington_Cross</value></Data></ExtendedData>
+  <Point><coordinates>-3.032253,50.778866</coordinates></Point></Placemark>
+<Placemark>
+<name>Kincardine_Bridge</name><ExtendedData>
+  <Data name="postcode"><value>FK2 8PF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kincardine_Bridge</value></Data></ExtendedData>
+  <Point><coordinates>-3.7587,56.054018</coordinates></Point></Placemark>
+<Placemark>
+<name>Kingsclere</name><ExtendedData>
+  <Data name="postcode"><value>RG20 4TA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kingsclere</value></Data></ExtendedData>
+  <Point><coordinates>-1.256428,51.334392</coordinates></Point></Placemark>
+<Placemark>
+<name>Kingsham</name><ExtendedData>
+  <Data name="postcode"><value>PO19 8TH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kingsham</value></Data></ExtendedData>
+  <Point><coordinates>-0.778565,50.826532</coordinates></Point></Placemark>
+<Placemark>
+<name>Kings_Lynn</name><ExtendedData>
+  <Data name="postcode"><value>PE34 3LW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kings_Lynn</value></Data></ExtendedData>
+  <Point><coordinates>0.387058,52.744466</coordinates></Point></Placemark>
+<Placemark>
+<name>Kinmel_Park</name><ExtendedData>
+  <Data name="postcode"><value>LL18 5XW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kinmel_Park</value></Data></ExtendedData>
+  <Point><coordinates>-3.517796,53.267644</coordinates></Point></Placemark>
+<Placemark>
+<name>Kinross</name><ExtendedData>
+  <Data name="postcode"><value>KY13 0NQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Kinross</value></Data></ExtendedData>
+  <Point><coordinates>-3.443989,56.208744</coordinates></Point></Placemark>
+<Placemark>
+<name>Knutsford</name><ExtendedData>
+  <Data name="postcode"><value>WA16 0TL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Knutsford</value></Data></ExtendedData>
+  <Point><coordinates>-2.400876,53.300974</coordinates></Point></Placemark>
+<Placemark>
+<name>Lancaster</name><ExtendedData>
+  <Data name="postcode"><value>LA2 9DU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Lancaster</value></Data></ExtendedData>
+  <Point><coordinates>-2.760582,53.961645</coordinates></Point></Placemark>
+<Placemark>
+<name>Leeds_Skelton_Lake</name><ExtendedData>
+  <Data name="postcode"><value>LS9 0AS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Leeds_Skelton_Lake</value></Data></ExtendedData>
+  <Point><coordinates>-1.471273,53.772696</coordinates></Point></Placemark>
+<Placemark>
+<name>Leeming_Bar</name><ExtendedData>
+  <Data name="postcode"><value>DL8 1DT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Leeming_Bar</value></Data></ExtendedData>
+  <Point><coordinates>-1.566728,54.298943</coordinates></Point></Placemark>
+<Placemark>
+<name>Leicester_Forest_East</name><ExtendedData>
+  <Data name="postcode"><value>LE3 3GB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Leicester_Forest_East</value></Data></ExtendedData>
+  <Point><coordinates>-1.206122,52.619002</coordinates></Point></Placemark>
+<Placemark>
+<name>Leicester_North</name><ExtendedData>
+  <Data name="postcode"><value>LE4 3BT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Leicester_North</value></Data></ExtendedData>
+  <Point><coordinates>-1.127076,52.690601</coordinates></Point></Placemark>
+<Placemark>
+<name>Leigh_Delamere</name><ExtendedData>
+  <Data name="postcode"><value>SN14 6LB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Leigh_Delamere</value></Data></ExtendedData>
+  <Point><coordinates>-2.158225,51.511799</coordinates></Point></Placemark>
+<Placemark>
+<name>Lindisfarne</name><ExtendedData>
+  <Data name="postcode"><value>TD15 2PD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Lindisfarne</value></Data></ExtendedData>
+  <Point><coordinates>-1.916948,55.672265</coordinates></Point></Placemark>
+<Placemark>
+<name>Liphook</name><ExtendedData>
+  <Data name="postcode"><value>GU30 7TT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Liphook</value></Data></ExtendedData>
+  <Point><coordinates>-0.819147,51.083813</coordinates></Point></Placemark>
+<Placemark>
+<name>Lisburn</name><ExtendedData>
+  <Data name="postcode"><value>BT27 5SG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Lisburn</value></Data></ExtendedData>
+  <Point><coordinates>-6.011489,54.520365</coordinates></Point></Placemark>
+<Placemark>
+<name>Littleport</name><ExtendedData>
+  <Data name="postcode"><value>CB6 1JJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Littleport</value></Data></ExtendedData>
+  <Point><coordinates>0.294769,52.461347</coordinates></Point></Placemark>
+<Placemark>
+<name>Llanddulas</name><ExtendedData>
+  <Data name="postcode"><value>LL22 8HH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Llanddulas</value></Data></ExtendedData>
+  <Point><coordinates>-3.642482,53.289985</coordinates></Point></Placemark>
+<Placemark>
+<name>Llanrhystud</name><ExtendedData>
+  <Data name="postcode"><value>SY23 5BT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Llanrhystud</value></Data></ExtendedData>
+  <Point><coordinates>-4.14734,52.303739</coordinates></Point></Placemark>
+<Placemark>
+<name>Locks_Garage</name><ExtendedData>
+  <Data name="postcode"><value>HR2 9AS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Locks_Garage</value></Data></ExtendedData>
+  <Point><coordinates>-2.794567,52.000695</coordinates></Point></Placemark>
+<Placemark>
+<name>Lomondgate</name><ExtendedData>
+  <Data name="postcode"><value>G82 2QU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Lomondgate</value></Data></ExtendedData>
+  <Point><coordinates>-4.560604,55.957249</coordinates></Point></Placemark>
+<Placemark>
+<name>London_Gateway</name><ExtendedData>
+  <Data name="postcode"><value>NW7 3HU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/London_Gateway</value></Data></ExtendedData>
+  <Point><coordinates>-0.264336,51.631339</coordinates></Point></Placemark>
+<Placemark>
+<name>Luxmore</name><ExtendedData>
+  <Data name="postcode"><value>DN40 3BH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Luxmore</value></Data></ExtendedData>
+  <Point><coordinates>-0.243374,53.609106</coordinates></Point></Placemark>
+<Placemark>
+<name>Lymm</name><ExtendedData>
+  <Data name="postcode"><value>WA13 0SP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Lymm</value></Data></ExtendedData>
+  <Point><coordinates>-2.504454,53.359117</coordinates></Point></Placemark>
+<Placemark>
+<name>Macmerry</name><ExtendedData>
+  <Data name="postcode"><value>EH33 1EJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Macmerry</value></Data></ExtendedData>
+  <Point><coordinates>-2.866737,55.956012</coordinates></Point></Placemark>
+<Placemark>
+<name>Magor</name><ExtendedData>
+  <Data name="postcode"><value>NP26 3YL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Magor</value></Data></ExtendedData>
+  <Point><coordinates>-2.837544,51.587529</coordinates></Point></Placemark>
+<Placemark>
+<name>Maidenhead</name><ExtendedData>
+  <Data name="postcode"><value>SL6 0AP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Maidenhead</value></Data></ExtendedData>
+  <Point><coordinates>-0.695151,51.523031</coordinates></Point></Placemark>
+<Placemark>
+<name>Maidstone</name><ExtendedData>
+  <Data name="postcode"><value>ME17 1SS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Maidstone</value></Data></ExtendedData>
+  <Point><coordinates>0.613865,51.266597</coordinates></Point></Placemark>
+<Placemark>
+<name>Mangrove</name><ExtendedData>
+  <Data name="postcode"><value>CV23 9LG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Mangrove</value></Data></ExtendedData>
+  <Point><coordinates>-1.340604,52.34435</coordinates></Point></Placemark>
+<Placemark>
+<name>Manor_Way</name><ExtendedData>
+  <Data name="postcode"><value>B62 8RJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Manor_Way</value></Data></ExtendedData>
+  <Point><coordinates>-2.038541,52.445782</coordinates></Point></Placemark>
+<Placemark>
+<name>Maresfield</name><ExtendedData>
+  <Data name="postcode"><value>TN22 5EP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Maresfield</value></Data></ExtendedData>
+  <Point><coordinates>0.090301,50.9888</coordinates></Point></Placemark>
+<Placemark>
+<name>Market_Harborough</name><ExtendedData>
+  <Data name="postcode"><value>LE16 7FD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Market_Harborough</value></Data></ExtendedData>
+  <Point><coordinates>-0.941523,52.511046</coordinates></Point></Placemark>
+<Placemark>
+<name>Markfield</name><ExtendedData>
+  <Data name="postcode"><value>LE67 9PP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Markfield</value></Data></ExtendedData>
+  <Point><coordinates>-1.296974,52.698084</coordinates></Point></Placemark>
+<Placemark>
+<name>Markham_Moor</name><ExtendedData>
+  <Data name="postcode"><value>DN22 0QU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Markham_Moor</value></Data></ExtendedData>
+  <Point><coordinates>-0.924971,53.256809</coordinates></Point></Placemark>
+<Placemark>
+<name>Markham_Vale</name><ExtendedData>
+  <Data name="postcode"><value>S44 5HS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Markham_Vale</value></Data></ExtendedData>
+  <Point><coordinates>-1.328667,53.242369</coordinates></Point></Placemark>
+<Placemark>
+<name>Marston_Moretaine</name><ExtendedData>
+  <Data name="postcode"><value>MK43 0PP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Marston_Moretaine</value></Data></ExtendedData>
+  <Point><coordinates>-0.548531,52.047208</coordinates></Point></Placemark>
+<Placemark>
+<name>Martlesham_Heath</name><ExtendedData>
+  <Data name="postcode"><value>IP5 3RA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Martlesham_Heath</value></Data></ExtendedData>
+  <Point><coordinates>1.27598,52.065514</coordinates></Point></Placemark>
+<Placemark>
+<name>Medway</name><ExtendedData>
+  <Data name="postcode"><value>ME8 8PQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Medway</value></Data></ExtendedData>
+  <Point><coordinates>0.608165,51.341571</coordinates></Point></Placemark>
+<Placemark>
+<name>Membury</name><ExtendedData>
+  <Data name="postcode"><value>RG17 7TZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Membury</value></Data></ExtendedData>
+  <Point><coordinates>-1.557179,51.483486</coordinates></Point></Placemark>
+<Placemark>
+<name>Michaelwood</name><ExtendedData>
+  <Data name="postcode"><value>GL11 6DD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Michaelwood</value></Data></ExtendedData>
+  <Point><coordinates>-2.420144,51.666641</coordinates></Point></Placemark>
+<Placemark>
+<name>Middlewich</name><ExtendedData>
+  <Data name="postcode"><value>CW10 0JB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Middlewich</value></Data></ExtendedData>
+  <Point><coordinates>-2.432264,53.195137</coordinates></Point></Placemark>
+<Placemark>
+<name>Mile_End</name><ExtendedData>
+  <Data name="postcode"><value>SY11 4JA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Mile_End</value></Data></ExtendedData>
+  <Point><coordinates>-3.026558,52.849412</coordinates></Point></Placemark>
+<Placemark>
+<name>Milford</name><ExtendedData>
+  <Data name="postcode"><value>IP28 6AS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Milford</value></Data></ExtendedData>
+  <Point><coordinates>0.531698,52.335564</coordinates></Point></Placemark>
+<Placemark>
+<name>Milton_Heights</name><ExtendedData>
+  <Data name="postcode"><value>OX14 4TX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Milton_Heights</value></Data></ExtendedData>
+  <Point><coordinates>-1.300193,51.618762</coordinates></Point></Placemark>
+<Placemark>
+<name>Milton_Keynes</name><ExtendedData>
+  <Data name="postcode"><value>MK17 9DN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Milton_Keynes</value></Data></ExtendedData>
+  <Point><coordinates>-0.699304,51.991784</coordinates></Point></Placemark>
+<Placemark>
+<name>Minster</name><ExtendedData>
+  <Data name="postcode"><value>CT12 4AY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Minster</value></Data></ExtendedData>
+  <Point><coordinates>1.318059,51.343242</coordinates></Point></Placemark>
+<Placemark>
+<name>Monktonhall</name><ExtendedData>
+  <Data name="postcode"><value>EH21 8RE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Monktonhall</value></Data></ExtendedData>
+  <Point><coordinates>-3.06055,55.926192</coordinates></Point></Placemark>
+<Placemark>
+<name>Monkton</name><ExtendedData>
+  <Data name="postcode"><value>KA9 2RJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Monkton</value></Data></ExtendedData>
+  <Point><coordinates>-4.600214,55.517655</coordinates></Point></Placemark>
+<Placemark>
+<name>Monmouth</name><ExtendedData>
+  <Data name="postcode"><value>NP25 4BG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Monmouth</value></Data></ExtendedData>
+  <Point><coordinates>-2.805068,51.774606</coordinates></Point></Placemark>
+<Placemark>
+<name>Moor_Farm</name><ExtendedData>
+  <Data name="postcode"><value>NE23 7QA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Moor_Farm</value></Data></ExtendedData>
+  <Point><coordinates>-1.580914,55.06464</coordinates></Point></Placemark>
+<Placemark>
+<name>Morcott</name><ExtendedData>
+  <Data name="postcode"><value>LE15 9DL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Morcott</value></Data></ExtendedData>
+  <Point><coordinates>-0.64122,52.593049</coordinates></Point></Placemark>
+<Placemark>
+<name>Moulton</name><ExtendedData>
+  <Data name="postcode"><value>NN3 7TP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Moulton</value></Data></ExtendedData>
+  <Point><coordinates>-0.840578,52.28692</coordinates></Point></Placemark>
+<Placemark>
+<name>Nene_Valley</name><ExtendedData>
+  <Data name="postcode"><value>NN3 5LU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Nene_Valley</value></Data></ExtendedData>
+  <Point><coordinates>-0.794367,52.254446</coordinates></Point></Placemark>
+<Placemark>
+<name>Nesscliffe</name><ExtendedData>
+  <Data name="postcode"><value>SY4 1BZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Nesscliffe</value></Data></ExtendedData>
+  <Point><coordinates>-2.922936,52.771548</coordinates></Point></Placemark>
+<Placemark>
+<name>Newark</name><ExtendedData>
+  <Data name="postcode"><value>NG24 3UG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Newark</value></Data></ExtendedData>
+  <Point><coordinates>-0.778455,53.048585</coordinates></Point></Placemark>
+<Placemark>
+<name>Newby_Bridge</name><ExtendedData>
+  <Data name="postcode"><value>LA12 8ND</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Newby_Bridge</value></Data></ExtendedData>
+  <Point><coordinates>-2.965746,54.264779</coordinates></Point></Placemark>
+<Placemark>
+<name>New_Fox</name><ExtendedData>
+  <Data name="postcode"><value>NG33 5LN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/New_Fox</value></Data></ExtendedData>
+  <Point><coordinates>-0.610642,52.765769</coordinates></Point></Placemark>
+<Placemark>
+<name>Newmarket</name><ExtendedData>
+  <Data name="postcode"><value>CB8 0XG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Newmarket</value></Data></ExtendedData>
+  <Point><coordinates>0.364271,52.249489</coordinates></Point></Placemark>
+<Placemark>
+<name>Newport_Pagnell</name><ExtendedData>
+  <Data name="postcode"><value>MK16 8DS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Newport_Pagnell</value></Data></ExtendedData>
+  <Point><coordinates>-0.749005,52.08315</coordinates></Point></Placemark>
+<Placemark>
+<name>Newtonmore</name><ExtendedData>
+  <Data name="postcode"><value>PH20 1BB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Newtonmore</value></Data></ExtendedData>
+  <Point><coordinates>-4.127937,57.060472</coordinates></Point></Placemark>
+<Placemark>
+<name>Newton_Park</name><ExtendedData>
+  <Data name="postcode"><value>DL1 3NL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Newton_Park</value></Data></ExtendedData>
+  <Point><coordinates>-1.563364,54.584664</coordinates></Point></Placemark>
+<Placemark>
+<name>Newtown_Cross</name><ExtendedData>
+  <Data name="postcode"><value>HR8 2TZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Newtown_Cross</value></Data></ExtendedData>
+  <Point><coordinates>-2.5624,52.101299</coordinates></Point></Placemark>
+<Placemark>
+<name>Northampton</name><ExtendedData>
+  <Data name="postcode"><value>NN4 9QS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Northampton</value></Data></ExtendedData>
+  <Point><coordinates>-0.94455,52.20919</coordinates></Point></Placemark>
+<Placemark>
+<name>North_Muskham</name><ExtendedData>
+  <Data name="postcode"><value>NG23 6HT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/North_Muskham</value></Data></ExtendedData>
+  <Point><coordinates>-0.810949,53.128742</coordinates></Point></Placemark>
+<Placemark>
+<name>Northop_Hall</name><ExtendedData>
+  <Data name="postcode"><value>CH7 6HF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Northop_Hall</value></Data></ExtendedData>
+  <Point><coordinates>-3.090195,53.197934</coordinates></Point></Placemark>
+<Placemark>
+<name>Northside</name><ExtendedData>
+  <Data name="postcode"><value>HR6 0PJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Northside</value></Data></ExtendedData>
+  <Point><coordinates>-2.716367,52.174295</coordinates></Point></Placemark>
+<Placemark>
+<name>Norton_Canes</name><ExtendedData>
+  <Data name="postcode"><value>WS11 9UX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Norton_Canes</value></Data></ExtendedData>
+  <Point><coordinates>-1.967827,52.665031</coordinates></Point></Placemark>
+<Placemark>
+<name>Nuneaton</name><ExtendedData>
+  <Data name="postcode"><value>CV10 7DA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Nuneaton</value></Data></ExtendedData>
+  <Point><coordinates>-1.477009,52.503944</coordinates></Point></Placemark>
+<Placemark>
+<name>Nunney_Catch</name><ExtendedData>
+  <Data name="postcode"><value>BA11 4NX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Nunney_Catch</value></Data></ExtendedData>
+  <Point><coordinates>-2.376471,51.200848</coordinates></Point></Placemark>
+<Placemark>
+<name>Oak</name><ExtendedData>
+  <Data name="postcode"><value>CV5 9AN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Oak</value></Data></ExtendedData>
+  <Point><coordinates>-1.581168,52.428201</coordinates></Point></Placemark>
+<Placemark>
+<name>Oldbury</name><ExtendedData>
+  <Data name="postcode"><value>GL10 3SJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Oldbury</value></Data></ExtendedData>
+  <Point><coordinates>-2.314336,51.758808</coordinates></Point></Placemark>
+<Placemark>
+<name>Old_Inns</name><ExtendedData>
+  <Data name="postcode"><value>G68 0BJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Old_Inns</value></Data></ExtendedData>
+  <Point><coordinates>-3.969789,55.967557</coordinates></Point></Placemark>
+<Placemark>
+<name>Ollerton</name><ExtendedData>
+  <Data name="postcode"><value>NG22 9DT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ollerton</value></Data></ExtendedData>
+  <Point><coordinates>-1.027289,53.200111</coordinates></Point></Placemark>
+<Placemark>
+<name>Orme_View</name><ExtendedData>
+  <Data name="postcode"><value>LL34 6UN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Orme_View</value></Data></ExtendedData>
+  <Point><coordinates>-3.89941,53.280578</coordinates></Point></Placemark>
+<Placemark>
+<name>Orsett</name><ExtendedData>
+  <Data name="postcode"><value>RM16 3BJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Orsett</value></Data></ExtendedData>
+  <Point><coordinates>0.382546,51.506028</coordinates></Point></Placemark>
+<Placemark>
+<name>Orwell</name><ExtendedData>
+  <Data name="postcode"><value>IP10 0NZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Orwell</value></Data></ExtendedData>
+  <Point><coordinates>1.186932,52.0235</coordinates></Point></Placemark>
+<Placemark>
+<name>Oval</name><ExtendedData>
+  <Data name="postcode"><value>NN7 3NA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Oval</value></Data></ExtendedData>
+  <Point><coordinates>-1.026901,52.230619</coordinates></Point></Placemark>
+<Placemark>
+<name>Oversley_Mill</name><ExtendedData>
+  <Data name="postcode"><value>B49 6PQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Oversley_Mill</value></Data></ExtendedData>
+  <Point><coordinates>-1.876498,52.204412</coordinates></Point></Placemark>
+<Placemark>
+<name>Oxford</name><ExtendedData>
+  <Data name="postcode"><value>OX33 1LJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Oxford</value></Data></ExtendedData>
+  <Point><coordinates>-1.097191,51.738038</coordinates></Point></Placemark>
+<Placemark>
+<name>Parkway</name><ExtendedData>
+  <Data name="postcode"><value>S2 1FF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Parkway</value></Data></ExtendedData>
+  <Point><coordinates>-1.417959,53.371675</coordinates></Point></Placemark>
+<Placemark>
+<name>Partney</name><ExtendedData>
+  <Data name="postcode"><value>PE23 4PF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Partney</value></Data></ExtendedData>
+  <Point><coordinates>0.107472,53.191814</coordinates></Point></Placemark>
+<Placemark>
+<name>Peartree_Cross</name><ExtendedData>
+  <Data name="postcode"><value>TQ13 7RB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Peartree_Cross</value></Data></ExtendedData>
+  <Point><coordinates>-3.76397,50.509953</coordinates></Point></Placemark>
+<Placemark>
+<name>Peartree</name><ExtendedData>
+  <Data name="postcode"><value>OX2 8JZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Peartree</value></Data></ExtendedData>
+  <Point><coordinates>-1.283438,51.795601</coordinates></Point></Placemark>
+<Placemark>
+<name>Pease_Pottage</name><ExtendedData>
+  <Data name="postcode"><value>RH11 9YA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Pease_Pottage</value></Data></ExtendedData>
+  <Point><coordinates>-0.199939,51.083316</coordinates></Point></Placemark>
+<Placemark>
+<name>Penhale</name><ExtendedData>
+  <Data name="postcode"><value>TR9 6NA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Penhale</value></Data></ExtendedData>
+  <Point><coordinates>-4.943711,50.37848</coordinates></Point></Placemark>
+<Placemark>
+<name>Penlan</name><ExtendedData>
+  <Data name="postcode"><value>PL30 4HH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Penlan</value></Data></ExtendedData>
+  <Point><coordinates>-4.664863,50.507818</coordinates></Point></Placemark>
+<Placemark>
+<name>Penrith</name><ExtendedData>
+  <Data name="postcode"><value>CA11 9EH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Penrith</value></Data></ExtendedData>
+  <Point><coordinates>-2.764245,54.661616</coordinates></Point></Placemark>
+<Placemark>
+<name>Peterborough</name><ExtendedData>
+  <Data name="postcode"><value>PE7 3UQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Peterborough</value></Data></ExtendedData>
+  <Point><coordinates>-0.320705,52.531639</coordinates></Point></Placemark>
+<Placemark>
+<name>Petersfield</name><ExtendedData>
+  <Data name="postcode"><value>GU32 3BS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Petersfield</value></Data></ExtendedData>
+  <Point><coordinates>-0.951553,51.008611</coordinates></Point></Placemark>
+<Placemark>
+<name>Pevensey</name><ExtendedData>
+  <Data name="postcode"><value>BN24 5JW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Pevensey</value></Data></ExtendedData>
+  <Point><coordinates>0.343121,50.822577</coordinates></Point></Placemark>
+<Placemark>
+<name>Picket_Post</name><ExtendedData>
+  <Data name="postcode"><value>BH24 3HN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Picket_Post</value></Data></ExtendedData>
+  <Point><coordinates>-1.730116,50.853816</coordinates></Point></Placemark>
+<Placemark>
+<name>Pocklington</name><ExtendedData>
+  <Data name="postcode"><value>YO42 1AD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Pocklington</value></Data></ExtendedData>
+  <Point><coordinates>-0.795361,53.920833</coordinates></Point></Placemark>
+<Placemark>
+<name>Podimore</name><ExtendedData>
+  <Data name="postcode"><value>BA22 8JG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Podimore</value></Data></ExtendedData>
+  <Point><coordinates>-2.659909,51.023092</coordinates></Point></Placemark>
+<Placemark>
+<name>Polegate</name><ExtendedData>
+  <Data name="postcode"><value>BN26 6QL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Polegate</value></Data></ExtendedData>
+  <Point><coordinates>0.23684,50.829093</coordinates></Point></Placemark>
+<Placemark>
+<name>Pont_Abraham</name><ExtendedData>
+  <Data name="postcode"><value>SA4 0FU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Pont_Abraham</value></Data></ExtendedData>
+  <Point><coordinates>-4.065913,51.747468</coordinates></Point></Placemark>
+<Placemark>
+<name>Popham</name><ExtendedData>
+  <Data name="postcode"><value>SO21 3SP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Popham</value></Data></ExtendedData>
+  <Point><coordinates>-1.232428,51.193088</coordinates></Point></Placemark>
+<Placemark>
+<name>Poppleton</name><ExtendedData>
+  <Data name="postcode"><value>YO26 6QD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Poppleton</value></Data></ExtendedData>
+  <Point><coordinates>-1.142754,53.972016</coordinates></Point></Placemark>
+<Placemark>
+<name>Prizet</name><ExtendedData>
+  <Data name="postcode"><value>LA8 8AA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Prizet</value></Data></ExtendedData>
+  <Point><coordinates>-2.75948,54.297604</coordinates></Point></Placemark>
+<Placemark>
+<name>Pyecombe_(North)</name><ExtendedData>
+  <Data name="postcode"><value>BN45 7ED</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Pyecombe_(North)</value></Data></ExtendedData>
+  <Point><coordinates>-0.174491,50.901124</coordinates></Point></Placemark>
+<Placemark>
+<name>Pyecombe_(South)</name><ExtendedData>
+  <Data name="postcode"><value>BN45 7FJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Pyecombe_(South)</value></Data></ExtendedData>
+  <Point><coordinates>-0.164141,50.886923</coordinates></Point></Placemark>
+<Placemark>
+<name>Queenborough</name><ExtendedData>
+  <Data name="postcode"><value>ME12 3EW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Queenborough</value></Data></ExtendedData>
+  <Point><coordinates>0.759276,51.41567</coordinates></Point></Placemark>
+<Placemark>
+<name>Ram_Jam</name><ExtendedData>
+  <Data name="postcode"><value>LE15 7QX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ram_Jam</value></Data></ExtendedData>
+  <Point><coordinates>-0.600104,52.732462</coordinates></Point></Placemark>
+<Placemark>
+<name>Raunds</name><ExtendedData>
+  <Data name="postcode"><value>NN9 6EQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Raunds</value></Data></ExtendedData>
+  <Point><coordinates>-0.54626,52.352247</coordinates></Point></Placemark>
+<Placemark>
+<name>Reading</name><ExtendedData>
+  <Data name="postcode"><value>RG30 3UQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Reading</value></Data></ExtendedData>
+  <Point><coordinates>-1.036664,51.423594</coordinates></Point></Placemark>
+<Placemark>
+<name>Red_Lion_Truckstop</name><ExtendedData>
+  <Data name="postcode"><value>NN7 4DE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Red_Lion_Truckstop</value></Data></ExtendedData>
+  <Point><coordinates>-1.004718,52.23198</coordinates></Point></Placemark>
+<Placemark>
+<name>Red_Post</name><ExtendedData>
+  <Data name="postcode"><value>DT11 9EX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Red_Post</value></Data></ExtendedData>
+  <Point><coordinates>-2.153353,50.775143</coordinates></Point></Placemark>
+<Placemark>
+<name>Redwings</name><ExtendedData>
+  <Data name="postcode"><value>PE28 5XP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Redwings</value></Data></ExtendedData>
+  <Point><coordinates>-0.262807,52.409442</coordinates></Point></Placemark>
+<Placemark>
+<name>Rheged</name><ExtendedData>
+  <Data name="postcode"><value>CA11 0DQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rheged</value></Data></ExtendedData>
+  <Point><coordinates>-2.781083,54.647418</coordinates></Point></Placemark>
+<Placemark>
+<name>Rhostyllen</name><ExtendedData>
+  <Data name="postcode"><value>LL14 4EJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rhostyllen</value></Data></ExtendedData>
+  <Point><coordinates>-3.029416,53.027758</coordinates></Point></Placemark>
+<Placemark>
+<name>Richborough</name><ExtendedData>
+  <Data name="postcode"><value>CT13 9NL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Richborough</value></Data></ExtendedData>
+  <Point><coordinates>1.348697,51.310178</coordinates></Point></Placemark>
+<Placemark>
+<name>Rising_Bridge</name><ExtendedData>
+  <Data name="postcode"><value>BB5 2SB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rising_Bridge</value></Data></ExtendedData>
+  <Point><coordinates>-2.332514,53.726195</coordinates></Point></Placemark>
+<Placemark>
+<name>Rivington</name><ExtendedData>
+  <Data name="postcode"><value>BL6 5UZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rivington</value></Data></ExtendedData>
+  <Point><coordinates>-2.573013,53.600516</coordinates></Point></Placemark>
+<Placemark>
+<name>Ross_Spur</name><ExtendedData>
+  <Data name="postcode"><value>HR9 7QJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ross_Spur</value></Data></ExtendedData>
+  <Point><coordinates>-2.568111,51.927802</coordinates></Point></Placemark>
+<Placemark>
+<name>Rothwell</name><ExtendedData>
+  <Data name="postcode"><value>NN14 1SS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rothwell</value></Data></ExtendedData>
+  <Point><coordinates>-0.790084,52.414473</coordinates></Point></Placemark>
+<Placemark>
+<name>Rothwell_Truckstop</name><ExtendedData>
+  <Data name="postcode"><value>NN14 6AA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rothwell_Truckstop</value></Data></ExtendedData>
+  <Point><coordinates>-0.813049,52.412899</coordinates></Point></Placemark>
+<Placemark>
+<name>Roundswell</name><ExtendedData>
+  <Data name="postcode"><value>EX31 3RZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Roundswell</value></Data></ExtendedData>
+  <Point><coordinates>-4.083878,51.06296</coordinates></Point></Placemark>
+<Placemark>
+<name>Route_74_Truckstop</name><ExtendedData>
+  <Data name="postcode"><value>ML11 0FA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Route_74_Truckstop</value></Data></ExtendedData>
+  <Point><coordinates>-3.892995,55.648703</coordinates></Point></Placemark>
+<Placemark>
+<name>Rowborough</name><ExtendedData>
+  <Data name="postcode"><value>GL56 9RE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rowborough</value></Data></ExtendedData>
+  <Point><coordinates>-1.664999,52.050051</coordinates></Point></Placemark>
+<Placemark>
+<name>Rownhams</name><ExtendedData>
+  <Data name="postcode"><value>SO16 8AP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rownhams</value></Data></ExtendedData>
+  <Point><coordinates>-1.452068,50.952732</coordinates></Point></Placemark>
+<Placemark>
+<name>Ruabon</name><ExtendedData>
+  <Data name="postcode"><value>LL14 6YY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Ruabon</value></Data></ExtendedData>
+  <Point><coordinates>-3.031198,52.993689</coordinates></Point></Placemark>
+<Placemark>
+<name>Rufus_Stone</name><ExtendedData>
+  <Data name="postcode"><value>SO43 7GN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rufus_Stone</value></Data></ExtendedData>
+  <Point><coordinates>-1.626655,50.90585</coordinates></Point></Placemark>
+<Placemark>
+<name>Rugby</name><ExtendedData>
+  <Data name="postcode"><value>CV23 0EZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rugby</value></Data></ExtendedData>
+  <Point><coordinates>-1.250053,52.410771</coordinates></Point></Placemark>
+<Placemark>
+<name>Rugby_Truckstop</name><ExtendedData>
+  <Data name="postcode"><value>CV23 0AE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rugby_Truckstop</value></Data></ExtendedData>
+  <Point><coordinates>-1.188805,52.381895</coordinates></Point></Placemark>
+<Placemark>
+<name>Rushden</name><ExtendedData>
+  <Data name="postcode"><value>NN10 6AP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rushden</value></Data></ExtendedData>
+  <Point><coordinates>-0.627428,52.299101</coordinates></Point></Placemark>
+<Placemark>
+<name>Rustington</name><ExtendedData>
+  <Data name="postcode"><value>BN17 6LE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Rustington</value></Data></ExtendedData>
+  <Point><coordinates>-0.526195,50.820453</coordinates></Point></Placemark>
+<Placemark>
+<name>Saltash</name><ExtendedData>
+  <Data name="postcode"><value>PL12 6LF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Saltash</value></Data></ExtendedData>
+  <Point><coordinates>-4.233786,50.41779</coordinates></Point></Placemark>
+<Placemark>
+<name>Sandbach</name><ExtendedData>
+  <Data name="postcode"><value>CW11 2FZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sandbach</value></Data></ExtendedData>
+  <Point><coordinates>-2.335809,53.139358</coordinates></Point></Placemark>
+<Placemark>
+<name>Sarn_Park</name><ExtendedData>
+  <Data name="postcode"><value>CF32 9SY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sarn_Park</value></Data></ExtendedData>
+  <Point><coordinates>-3.576388,51.534969</coordinates></Point></Placemark>
+<Placemark>
+<name>Saughall</name><ExtendedData>
+  <Data name="postcode"><value>CH1 6JS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Saughall</value></Data></ExtendedData>
+  <Point><coordinates>-2.942376,53.232995</coordinates></Point></Placemark>
+<Placemark>
+<name>Scotch_Corner</name><ExtendedData>
+  <Data name="postcode"><value>DL10 6PQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Scotch_Corner</value></Data></ExtendedData>
+  <Point><coordinates>-1.666329,54.443985</coordinates></Point></Placemark>
+<Placemark>
+<name>Seaton_Burn</name><ExtendedData>
+  <Data name="postcode"><value>NE13 6EP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Seaton_Burn</value></Data></ExtendedData>
+  <Point><coordinates>-1.627688,55.059013</coordinates></Point></Placemark>
+<Placemark>
+<name>Sedbury</name><ExtendedData>
+  <Data name="postcode"><value>DL10 5LP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sedbury</value></Data></ExtendedData>
+  <Point><coordinates>-1.679709,54.442628</coordinates></Point></Placemark>
+<Placemark>
+<name>Sedgefield</name><ExtendedData>
+  <Data name="postcode"><value>TS21 2JX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sedgefield</value></Data></ExtendedData>
+  <Point><coordinates>-1.43987,54.648295</coordinates></Point></Placemark>
+<Placemark>
+<name>Sedgemoor_(North)</name><ExtendedData>
+  <Data name="postcode"><value>BS24 0JL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sedgemoor_(North)</value></Data></ExtendedData>
+  <Point><coordinates>-2.924042,51.268829</coordinates></Point></Placemark>
+<Placemark>
+<name>Sedgemoor_(South)</name><ExtendedData>
+  <Data name="postcode"><value>BS26 2UF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sedgemoor_(South)</value></Data></ExtendedData>
+  <Point><coordinates>-2.919431,51.269063</coordinates></Point></Placemark>
+<Placemark>
+<name>Seven_Bridges</name><ExtendedData>
+  <Data name="postcode"><value>SN6 6JR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Seven_Bridges</value></Data></ExtendedData>
+  <Point><coordinates>-1.837798,51.638225</coordinates></Point></Placemark>
+<Placemark>
+<name>Severn_View</name><ExtendedData>
+  <Data name="postcode"><value>BS35 4BH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Severn_View</value></Data></ExtendedData>
+  <Point><coordinates>-2.62125,51.603826</coordinates></Point></Placemark>
+<Placemark>
+<name>Shefford</name><ExtendedData>
+  <Data name="postcode"><value>SG17 5LH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Shefford</value></Data></ExtendedData>
+  <Point><coordinates>-0.33628,52.030223</coordinates></Point></Placemark>
+<Placemark>
+<name>Shooters_Hill</name><ExtendedData>
+  <Data name="postcode"><value>SE3 8UQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Shooters_Hill</value></Data></ExtendedData>
+  <Point><coordinates>0.027033,51.475411</coordinates></Point></Placemark>
+<Placemark>
+<name>Shrewsbury</name><ExtendedData>
+  <Data name="postcode"><value>SY3 0DA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Shrewsbury</value></Data></ExtendedData>
+  <Point><coordinates>-2.760901,52.681916</coordinates></Point></Placemark>
+<Placemark>
+<name>Sixfields</name><ExtendedData>
+  <Data name="postcode"><value>NN5 4EG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sixfields</value></Data></ExtendedData>
+  <Point><coordinates>-0.937771,52.234526</coordinates></Point></Placemark>
+<Placemark>
+<name>Skewen</name><ExtendedData>
+  <Data name="postcode"><value>SA10 7DR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Skewen</value></Data></ExtendedData>
+  <Point><coordinates>-3.832933,51.658153</coordinates></Point></Placemark>
+<Placemark>
+<name>Skiach</name><ExtendedData>
+  <Data name="postcode"><value>IV16 9XJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Skiach</value></Data></ExtendedData>
+  <Point><coordinates>-4.304279,57.675799</coordinates></Point></Placemark>
+<Placemark>
+<name>Skipbridge</name><ExtendedData>
+  <Data name="postcode"><value>YO26 8EQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Skipbridge</value></Data></ExtendedData>
+  <Point><coordinates>-1.273614,53.998574</coordinates></Point></Placemark>
+<Placemark>
+<name>Sleaford</name><ExtendedData>
+  <Data name="postcode"><value>NG34 8NP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sleaford</value></Data></ExtendedData>
+  <Point><coordinates>-0.423458,53.010934</coordinates></Point></Placemark>
+<Placemark>
+<name>Smithaleigh</name><ExtendedData>
+  <Data name="postcode"><value>PL7 5AX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Smithaleigh</value></Data></ExtendedData>
+  <Point><coordinates>-3.985793,50.382299</coordinates></Point></Placemark>
+<Placemark>
+<name>Snetterton</name><ExtendedData>
+  <Data name="postcode"><value>NR16 2JU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Snetterton</value></Data></ExtendedData>
+  <Point><coordinates>0.954114,52.471606</coordinates></Point></Placemark>
+<Placemark>
+<name>Solstice</name><ExtendedData>
+  <Data name="postcode"><value>SP4 7SQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Solstice</value></Data></ExtendedData>
+  <Point><coordinates>-1.758978,51.177468</coordinates></Point></Placemark>
+<Placemark>
+<name>Sourton_Cross</name><ExtendedData>
+  <Data name="postcode"><value>EX20 4LY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sourton_Cross</value></Data></ExtendedData>
+  <Point><coordinates>-4.059736,50.707756</coordinates></Point></Placemark>
+<Placemark>
+<name>South_Cave</name><ExtendedData>
+  <Data name="postcode"><value>HU15 2DA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/South_Cave</value></Data></ExtendedData>
+  <Point><coordinates>-0.593325,53.759691</coordinates></Point></Placemark>
+<Placemark>
+<name>South_Mimms</name><ExtendedData>
+  <Data name="postcode"><value>EN6 3QQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/South_Mimms</value></Data></ExtendedData>
+  <Point><coordinates>-0.221891,51.687531</coordinates></Point></Placemark>
+<Placemark>
+<name>Southwaite</name><ExtendedData>
+  <Data name="postcode"><value>CA4 0NT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Southwaite</value></Data></ExtendedData>
+  <Point><coordinates>-2.869965,54.798923</coordinates></Point></Placemark>
+<Placemark>
+<name>South_Weald</name><ExtendedData>
+  <Data name="postcode"><value>CM14 5NA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/South_Weald</value></Data></ExtendedData>
+  <Point><coordinates>0.266195,51.609418</coordinates></Point></Placemark>
+<Placemark>
+<name>Spaceways</name><ExtendedData>
+  <Data name="postcode"><value>YO26 6RB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Spaceways</value></Data></ExtendedData>
+  <Point><coordinates>-1.13266,53.977948</coordinates></Point></Placemark>
+<Placemark>
+<name>Spalding</name><ExtendedData>
+  <Data name="postcode"><value>PE12 6FY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Spalding</value></Data></ExtendedData>
+  <Point><coordinates>-0.158629,52.760909</coordinates></Point></Placemark>
+<Placemark>
+<name>Spaldwick</name><ExtendedData>
+  <Data name="postcode"><value>PE28 0TD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Spaldwick</value></Data></ExtendedData>
+  <Point><coordinates>-0.341607,52.341316</coordinates></Point></Placemark>
+<Placemark>
+<name>Springfields</name><ExtendedData>
+  <Data name="postcode"><value>PE12 6JP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Springfields</value></Data></ExtendedData>
+  <Point><coordinates>-0.118411,52.799982</coordinates></Point></Placemark>
+<Placemark>
+<name>Spur_End</name><ExtendedData>
+  <Data name="postcode"><value>BH7 7DP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Spur_End</value></Data></ExtendedData>
+  <Point><coordinates>-1.82524,50.747381</coordinates></Point></Placemark>
+<Placemark>
+<name>Stafford_(North)</name><ExtendedData>
+  <Data name="postcode"><value>ST15 0EU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stafford_(North)</value></Data></ExtendedData>
+  <Point><coordinates>-2.170513,52.884344</coordinates></Point></Placemark>
+<Placemark>
+<name>Stafford_(South)</name><ExtendedData>
+  <Data name="postcode"><value>ST15 0XE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stafford_(South)</value></Data></ExtendedData>
+  <Point><coordinates>-2.1612,52.873195</coordinates></Point></Placemark>
+<Placemark>
+<name>Stannington</name><ExtendedData>
+  <Data name="postcode"><value>NE61 6DR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stannington</value></Data></ExtendedData>
+  <Point><coordinates>-1.67159,55.125448</coordinates></Point></Placemark>
+<Placemark>
+<name>Stansted</name><ExtendedData>
+  <Data name="postcode"><value>CM24 1PY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stansted</value></Data></ExtendedData>
+  <Point><coordinates>0.247784,51.875575</coordinates></Point></Placemark>
+<Placemark>
+<name>St_Clears</name><ExtendedData>
+  <Data name="postcode"><value>SA33 4JW</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/St_Clears</value></Data></ExtendedData>
+  <Point><coordinates>-4.503711,51.817994</coordinates></Point></Placemark>
+<Placemark>
+<name>Stibbington</name><ExtendedData>
+  <Data name="postcode"><value>PE8 6LR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stibbington</value></Data></ExtendedData>
+  <Point><coordinates>-0.39044,52.568346</coordinates></Point></Placemark>
+<Placemark>
+<name>Stirchley</name><ExtendedData>
+  <Data name="postcode"><value>TF3 1QU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stirchley</value></Data></ExtendedData>
+  <Point><coordinates>-2.428922,52.654622</coordinates></Point></Placemark>
+<Placemark>
+<name>Stirling</name><ExtendedData>
+  <Data name="postcode"><value>FK7 8EU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stirling</value></Data></ExtendedData>
+  <Point><coordinates>-3.922476,56.075747</coordinates></Point></Placemark>
+<Placemark>
+<name>St_Kew</name><ExtendedData>
+  <Data name="postcode"><value>PL30 3ED</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/St_Kew</value></Data></ExtendedData>
+  <Point><coordinates>-4.779445,50.545606</coordinates></Point></Placemark>
+<Placemark>
+<name>St_Leonards</name><ExtendedData>
+  <Data name="postcode"><value>BH24 2NR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/St_Leonards</value></Data></ExtendedData>
+  <Point><coordinates>-1.838707,50.82935</coordinates></Point></Placemark>
+<Placemark>
+<name>Stockbridge</name><ExtendedData>
+  <Data name="postcode"><value>PO19 8FH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stockbridge</value></Data></ExtendedData>
+  <Point><coordinates>-0.788055,50.828718</coordinates></Point></Placemark>
+<Placemark>
+<name>Stonebridge</name><ExtendedData>
+  <Data name="postcode"><value>CV3 6RQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stonebridge</value></Data></ExtendedData>
+  <Point><coordinates>-1.515344,52.379037</coordinates></Point></Placemark>
+<Placemark>
+<name>Stonecross</name><ExtendedData>
+  <Data name="postcode"><value>PE38 0AD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stonecross</value></Data></ExtendedData>
+  <Point><coordinates>0.397347,52.598992</coordinates></Point></Placemark>
+<Placemark>
+<name>Stracathro</name><ExtendedData>
+  <Data name="postcode"><value>DD9 7QA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Stracathro</value></Data></ExtendedData>
+  <Point><coordinates>-2.61372,56.77494</coordinates></Point></Placemark>
+<Placemark>
+<name>Strathbogie</name><ExtendedData>
+  <Data name="postcode"><value>AB54 6JD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Strathbogie</value></Data></ExtendedData>
+  <Point><coordinates>-2.766175,57.43965</coordinates></Point></Placemark>
+<Placemark>
+<name>Strensham</name><ExtendedData>
+  <Data name="postcode"><value>WR8 0BZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Strensham</value></Data></ExtendedData>
+  <Point><coordinates>-2.157269,52.064651</coordinates></Point></Placemark>
+<Placemark>
+<name>Sutterton</name><ExtendedData>
+  <Data name="postcode"><value>PE20 2LG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sutterton</value></Data></ExtendedData>
+  <Point><coordinates>-0.080449,52.88846</coordinates></Point></Placemark>
+<Placemark>
+<name>Sutton_Scotney</name><ExtendedData>
+  <Data name="postcode"><value>SO21 3JY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Sutton_Scotney</value></Data></ExtendedData>
+  <Point><coordinates>-1.344286,51.156323</coordinates></Point></Placemark>
+<Placemark>
+<name>Swaffham</name><ExtendedData>
+  <Data name="postcode"><value>PE37 7TZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Swaffham</value></Data></ExtendedData>
+  <Point><coordinates>0.7239,52.652542</coordinates></Point></Placemark>
+<Placemark>
+<name>Swallowfield</name><ExtendedData>
+  <Data name="postcode"><value>RG7 1LZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Swallowfield</value></Data></ExtendedData>
+  <Point><coordinates>-0.984636,51.397824</coordinates></Point></Placemark>
+<Placemark>
+<name>Swanley</name><ExtendedData>
+  <Data name="postcode"><value>DA14 5JA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Swanley</value></Data></ExtendedData>
+  <Point><coordinates>0.144023,51.409668</coordinates></Point></Placemark>
+<Placemark>
+<name>Swansea_West</name><ExtendedData>
+  <Data name="postcode"><value>SA4 9GT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Swansea_West</value></Data></ExtendedData>
+  <Point><coordinates>-3.995297,51.679241</coordinates></Point></Placemark>
+<Placemark>
+<name>Symonds_Yat</name><ExtendedData>
+  <Data name="postcode"><value>HR9 6DP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Symonds_Yat</value></Data></ExtendedData>
+  <Point><coordinates>-2.664442,51.851709</coordinates></Point></Placemark>
+<Placemark>
+<name>Talke</name><ExtendedData>
+  <Data name="postcode"><value>ST7 1UP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Talke</value></Data></ExtendedData>
+  <Point><coordinates>-2.25048,53.061759</coordinates></Point></Placemark>
+<Placemark>
+<name>Tamworth</name><ExtendedData>
+  <Data name="postcode"><value>B77 5PS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tamworth</value></Data></ExtendedData>
+  <Point><coordinates>-1.64011,52.607476</coordinates></Point></Placemark>
+<Placemark>
+<name>Taunton_Deane</name><ExtendedData>
+  <Data name="postcode"><value>TA3 7PF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Taunton_Deane</value></Data></ExtendedData>
+  <Point><coordinates>-3.146758,50.975507</coordinates></Point></Placemark>
+<Placemark>
+<name>Tebay</name><ExtendedData>
+  <Data name="postcode"><value>CA10 3SB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tebay</value></Data></ExtendedData>
+  <Point><coordinates>-2.609982,54.449654</coordinates></Point></Placemark>
+<Placemark>
+<name>Teddington_Hands</name><ExtendedData>
+  <Data name="postcode"><value>GL20 8NE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Teddington_Hands</value></Data></ExtendedData>
+  <Point><coordinates>-2.055863,52.003435</coordinates></Point></Placemark>
+<Placemark>
+<name>Telegraph_Hill</name><ExtendedData>
+  <Data name="postcode"><value>EX6 7XX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Telegraph_Hill</value></Data></ExtendedData>
+  <Point><coordinates>-3.547489,50.648241</coordinates></Point></Placemark>
+<Placemark>
+<name>Telford</name><ExtendedData>
+  <Data name="postcode"><value>TF11 8TG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Telford</value></Data></ExtendedData>
+  <Point><coordinates>-2.400242,52.677301</coordinates></Point></Placemark>
+<Placemark>
+<name>Templepatrick</name><ExtendedData>
+  <Data name="postcode"><value>BT36 4RN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Templepatrick</value></Data></ExtendedData>
+  <Point><coordinates>-6.023114,54.695437</coordinates></Point></Placemark>
+<Placemark>
+<name>Thame</name><ExtendedData>
+  <Data name="postcode"><value>OX9 3SB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thame</value></Data></ExtendedData>
+  <Point><coordinates>-0.978808,51.756842</coordinates></Point></Placemark>
+<Placemark>
+<name>Thanet_Way</name><ExtendedData>
+  <Data name="postcode"><value>ME13 9EL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thanet_Way</value></Data></ExtendedData>
+  <Point><coordinates>0.98743,51.325414</coordinates></Point></Placemark>
+<Placemark>
+<name>The_Buck</name><ExtendedData>
+  <Data name="postcode"><value>SP11 6NJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/The_Buck</value></Data></ExtendedData>
+  <Point><coordinates>-1.411655,51.188531</coordinates></Point></Placemark>
+<Placemark>
+<name>Thetford</name><ExtendedData>
+  <Data name="postcode"><value>IP24 1QN</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thetford</value></Data></ExtendedData>
+  <Point><coordinates>0.727361,52.422879</coordinates></Point></Placemark>
+<Placemark>
+<name>Thickthorn</name><ExtendedData>
+  <Data name="postcode"><value>NR9 3AU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thickthorn</value></Data></ExtendedData>
+  <Point><coordinates>1.219121,52.604064</coordinates></Point></Placemark>
+<Placemark>
+<name>Thirsk</name><ExtendedData>
+  <Data name="postcode"><value>YO7 3AA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thirsk</value></Data></ExtendedData>
+  <Point><coordinates>-1.329105,54.228492</coordinates></Point></Placemark>
+<Placemark>
+<name>Thorpe_on_the_Hill</name><ExtendedData>
+  <Data name="postcode"><value>LN6 9AJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thorpe_on_the_Hill</value></Data></ExtendedData>
+  <Point><coordinates>-0.626411,53.17753</coordinates></Point></Placemark>
+<Placemark>
+<name>Thrapston</name><ExtendedData>
+  <Data name="postcode"><value>NN14 4UR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thrapston</value></Data></ExtendedData>
+  <Point><coordinates>-0.52543,52.39178</coordinates></Point></Placemark>
+<Placemark>
+<name>Thrussington</name><ExtendedData>
+  <Data name="postcode"><value>LE7 4TF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thrussington</value></Data></ExtendedData>
+  <Point><coordinates>-1.061412,52.748651</coordinates></Point></Placemark>
+<Placemark>
+<name>Thurrock</name><ExtendedData>
+  <Data name="postcode"><value>RM16 3BG</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Thurrock</value></Data></ExtendedData>
+  <Point><coordinates>0.272254,51.492281</coordinates></Point></Placemark>
+<Placemark>
+<name>Tibshelf</name><ExtendedData>
+  <Data name="postcode"><value>DE55 5TZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tibshelf</value></Data></ExtendedData>
+  <Point><coordinates>-1.332002,53.133917</coordinates></Point></Placemark>
+<Placemark>
+<name>Tickled_Trout</name><ExtendedData>
+  <Data name="postcode"><value>PR5 0UJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tickled_Trout</value></Data></ExtendedData>
+  <Point><coordinates>-2.641079,53.765349</coordinates></Point></Placemark>
+<Placemark>
+<name>Tiverton</name><ExtendedData>
+  <Data name="postcode"><value>EX16 7HD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tiverton</value></Data></ExtendedData>
+  <Point><coordinates>-3.354939,50.916808</coordinates></Point></Placemark>
+<Placemark>
+<name>Toddington</name><ExtendedData>
+  <Data name="postcode"><value>LU5 6HR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Toddington</value></Data></ExtendedData>
+  <Point><coordinates>-0.503233,51.947096</coordinates></Point></Placemark>
+<Placemark>
+<name>Todhills</name><ExtendedData>
+  <Data name="postcode"><value>CA6 4HA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Todhills</value></Data></ExtendedData>
+  <Point><coordinates>-2.979008,54.950102</coordinates></Point></Placemark>
+<Placemark>
+<name>Tollgate</name><ExtendedData>
+  <Data name="postcode"><value>DA11 7NP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tollgate</value></Data></ExtendedData>
+  <Point><coordinates>0.361227,51.417255</coordinates></Point></Placemark>
+<Placemark>
+<name>Tot_Hill_(A14)</name><ExtendedData>
+  <Data name="postcode"><value>IP14 3QQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tot_Hill_(A14)</value></Data></ExtendedData>
+  <Point><coordinates>0.9797,52.205946</coordinates></Point></Placemark>
+<Placemark>
+<name>Tot_Hill_(A34)</name><ExtendedData>
+  <Data name="postcode"><value>RG20 9BX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tot_Hill_(A34)</value></Data></ExtendedData>
+  <Point><coordinates>-1.342779,51.34853</coordinates></Point></Placemark>
+<Placemark>
+<name>Towcester</name><ExtendedData>
+  <Data name="postcode"><value>NN12 6TQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Towcester</value></Data></ExtendedData>
+  <Point><coordinates>-1.004552,52.126718</coordinates></Point></Placemark>
+<Placemark>
+<name>Townsend</name><ExtendedData>
+  <Data name="postcode"><value>BA22 8PF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Townsend</value></Data></ExtendedData>
+  <Point><coordinates>-2.713989,50.985032</coordinates></Point></Placemark>
+<Placemark>
+<name>Trewint</name><ExtendedData>
+  <Data name="postcode"><value>PL15 7TF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Trewint</value></Data></ExtendedData>
+  <Point><coordinates>-4.524064,50.59441</coordinates></Point></Placemark>
+<Placemark>
+<name>Trowell</name><ExtendedData>
+  <Data name="postcode"><value>NG9 3PL</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Trowell</value></Data></ExtendedData>
+  <Point><coordinates>-1.268038,52.961567</coordinates></Point></Placemark>
+<Placemark>
+<name>Tunbridge_Wells</name><ExtendedData>
+  <Data name="postcode"><value>TN12 7HE</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Tunbridge_Wells</value></Data></ExtendedData>
+  <Point><coordinates>0.351984,51.134975</coordinates></Point></Placemark>
+<Placemark>
+<name>Uttoxeter</name><ExtendedData>
+  <Data name="postcode"><value>ST14 5AA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Uttoxeter</value></Data></ExtendedData>
+  <Point><coordinates>-1.858719,52.908279</coordinates></Point></Placemark>
+<Placemark>
+<name>Vale</name><ExtendedData>
+  <Data name="postcode"><value>WR11 7QP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Vale</value></Data></ExtendedData>
+  <Point><coordinates>-2.002117,52.03016</coordinates></Point></Placemark>
+<Placemark>
+<name>Warminster</name><ExtendedData>
+  <Data name="postcode"><value>BA12 7RU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Warminster</value></Data></ExtendedData>
+  <Point><coordinates>-2.199957,51.21786</coordinates></Point></Placemark>
+<Placemark>
+<name>Warwick</name><ExtendedData>
+  <Data name="postcode"><value>CV35 0AA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Warwick</value></Data></ExtendedData>
+  <Point><coordinates>-1.515692,52.219735</coordinates></Point></Placemark>
+<Placemark>
+<name>Washington</name><ExtendedData>
+  <Data name="postcode"><value>DH3 2SJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Washington</value></Data></ExtendedData>
+  <Point><coordinates>-1.557512,54.890285</coordinates></Point></Placemark>
+<Placemark>
+<name>Watford_Gap</name><ExtendedData>
+  <Data name="postcode"><value>NN6 7UZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Watford_Gap</value></Data></ExtendedData>
+  <Point><coordinates>-1.123064,52.307442</coordinates></Point></Placemark>
+<Placemark>
+<name>Weeley</name><ExtendedData>
+  <Data name="postcode"><value>CO16 9AD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Weeley</value></Data></ExtendedData>
+  <Point><coordinates>1.101988,51.858779</coordinates></Point></Placemark>
+<Placemark>
+<name>Wellingborough</name><ExtendedData>
+  <Data name="postcode"><value>NN8 2DU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Wellingborough</value></Data></ExtendedData>
+  <Point><coordinates>-0.674022,52.288683</coordinates></Point></Placemark>
+<Placemark>
+<name>West_Cave</name><ExtendedData>
+  <Data name="postcode"><value>HU15 1RZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/West_Cave</value></Data></ExtendedData>
+  <Point><coordinates>-0.66144,53.768157</coordinates></Point></Placemark>
+<Placemark>
+<name>West_Wellow</name><ExtendedData>
+  <Data name="postcode"><value>SO51 6GF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/West_Wellow</value></Data></ExtendedData>
+  <Point><coordinates>-1.535655,50.954982</coordinates></Point></Placemark>
+<Placemark>
+<name>Wetherby</name><ExtendedData>
+  <Data name="postcode"><value>LS22 5GT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Wetherby</value></Data></ExtendedData>
+  <Point><coordinates>-1.368874,53.947548</coordinates></Point></Placemark>
+<Placemark>
+<name>Weyhill</name><ExtendedData>
+  <Data name="postcode"><value>SP11 8FH</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Weyhill</value></Data></ExtendedData>
+  <Point><coordinates>-1.535821,51.213772</coordinates></Point></Placemark>
+<Placemark>
+<name>Wherstead</name><ExtendedData>
+  <Data name="postcode"><value>IP2 8NQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Wherstead</value></Data></ExtendedData>
+  <Point><coordinates>1.148573,52.031158</coordinates></Point></Placemark>
+<Placemark>
+<name>Whiddon_Down</name><ExtendedData>
+  <Data name="postcode"><value>EX20 2QT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Whiddon_Down</value></Data></ExtendedData>
+  <Point><coordinates>-3.852056,50.719514</coordinates></Point></Placemark>
+<Placemark>
+<name>Whitchurch</name><ExtendedData>
+  <Data name="postcode"><value>SY13 1JZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Whitchurch</value></Data></ExtendedData>
+  <Point><coordinates>-2.70533,52.966978</coordinates></Point></Placemark>
+<Placemark>
+<name>Whitehouse</name><ExtendedData>
+  <Data name="postcode"><value>EX20 1QJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Whitehouse</value></Data></ExtendedData>
+  <Point><coordinates>-3.959004,50.739056</coordinates></Point></Placemark>
+<Placemark>
+<name>Whitemare_Pool</name><ExtendedData>
+  <Data name="postcode"><value>NE10 8YB</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Whitemare_Pool</value></Data></ExtendedData>
+  <Point><coordinates>-1.515724,54.946928</coordinates></Point></Placemark>
+<Placemark>
+<name>Whitley</name><ExtendedData>
+  <Data name="postcode"><value>WA4 4EZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Whitley</value></Data></ExtendedData>
+  <Point><coordinates>-2.592984,53.293125</coordinates></Point></Placemark>
+<Placemark>
+<name>Whittlesford</name><ExtendedData>
+  <Data name="postcode"><value>CB22 3HD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Whittlesford</value></Data></ExtendedData>
+  <Point><coordinates>0.176811,52.104085</coordinates></Point></Placemark>
+<Placemark>
+<name>Willington</name><ExtendedData>
+  <Data name="postcode"><value>DE65 6GY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Willington</value></Data></ExtendedData>
+  <Point><coordinates>-1.581075,52.855343</coordinates></Point></Placemark>
+<Placemark>
+<name>Willoughby_Hedge</name><ExtendedData>
+  <Data name="postcode"><value>BA12 6AQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Willoughby_Hedge</value></Data></ExtendedData>
+  <Point><coordinates>-2.185914,51.101392</coordinates></Point></Placemark>
+<Placemark>
+<name>Willowtree</name><ExtendedData>
+  <Data name="postcode"><value>NE66 2HA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Willowtree</value></Data></ExtendedData>
+  <Point><coordinates>-1.691665,55.401474</coordinates></Point></Placemark>
+<Placemark>
+<name>Winchester</name><ExtendedData>
+  <Data name="postcode"><value>SO21 1PP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Winchester</value></Data></ExtendedData>
+  <Point><coordinates>-1.254577,51.115258</coordinates></Point></Placemark>
+<Placemark>
+<name>Winning_Post</name><ExtendedData>
+  <Data name="postcode"><value>EX6 7XS</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Winning_Post</value></Data></ExtendedData>
+  <Point><coordinates>-3.562857,50.640317</coordinates></Point></Placemark>
+<Placemark>
+<name>Winthorpe</name><ExtendedData>
+  <Data name="postcode"><value>NG24 2NY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Winthorpe</value></Data></ExtendedData>
+  <Point><coordinates>-0.769253,53.097736</coordinates></Point></Placemark>
+<Placemark>
+<name>Wisbech</name><ExtendedData>
+  <Data name="postcode"><value>PE14 7BF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Wisbech</value></Data></ExtendedData>
+  <Point><coordinates>0.207283,52.684773</coordinates></Point></Placemark>
+<Placemark>
+<name>Wisley</name><ExtendedData>
+  <Data name="postcode"><value>GU23 6PT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Wisley</value></Data></ExtendedData>
+  <Point><coordinates>-0.489885,51.293154</coordinates></Point></Placemark>
+<Placemark>
+<name>Witney</name><ExtendedData>
+  <Data name="postcode"><value>OX28 4EJ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Witney</value></Data></ExtendedData>
+  <Point><coordinates>-1.492396,51.777974</coordinates></Point></Placemark>
+<Placemark>
+<name>Wittering</name><ExtendedData>
+  <Data name="postcode"><value>PE8 6HA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Wittering</value></Data></ExtendedData>
+  <Point><coordinates>-0.421717,52.598401</coordinates></Point></Placemark>
+<Placemark>
+<name>Woodall</name><ExtendedData>
+  <Data name="postcode"><value>S26 7XR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Woodall</value></Data></ExtendedData>
+  <Point><coordinates>-1.28137,53.315191</coordinates></Point></Placemark>
+<Placemark>
+<name>Woodhouse</name><ExtendedData>
+  <Data name="postcode"><value>TS14 6QU</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Woodhouse</value></Data></ExtendedData>
+  <Point><coordinates>-1.075788,54.535037</coordinates></Point></Placemark>
+<Placemark>
+<name>Woodside</name><ExtendedData>
+  <Data name="postcode"><value>EX36 3QP</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Woodside</value></Data></ExtendedData>
+  <Point><coordinates>-3.764034,51.013302</coordinates></Point></Placemark>
+<Placemark>
+<name>Woolley_Edge</name><ExtendedData>
+  <Data name="postcode"><value>WF4 4LQ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Woolley_Edge</value></Data></ExtendedData>
+  <Point><coordinates>-1.545422,53.622277</coordinates></Point></Placemark>
+<Placemark>
+<name>Woolmer</name><ExtendedData>
+  <Data name="postcode"><value>GU35 9QF</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Woolmer</value></Data></ExtendedData>
+  <Point><coordinates>-0.866188,51.108451</coordinates></Point></Placemark>
+<Placemark>
+<name>Worksop</name><ExtendedData>
+  <Data name="postcode"><value>S80 3QD</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Worksop</value></Data></ExtendedData>
+  <Point><coordinates>-1.139822,53.303263</coordinates></Point></Placemark>
+<Placemark>
+<name>Worsted</name><ExtendedData>
+  <Data name="postcode"><value>CB22 3AX</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Worsted</value></Data></ExtendedData>
+  <Point><coordinates>0.230827,52.145051</coordinates></Point></Placemark>
+<Placemark>
+<name>Wyboston</name><ExtendedData>
+  <Data name="postcode"><value>MK44 3AA</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Wyboston</value></Data></ExtendedData>
+  <Point><coordinates>-0.297943,52.19456</coordinates></Point></Placemark>
+<Placemark>
+<name>Wynyard_Park</name><ExtendedData>
+  <Data name="postcode"><value>TS22 5PZ</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Wynyard_Park</value></Data></ExtendedData>
+  <Point><coordinates>-1.306915,54.628629</coordinates></Point></Placemark>
+<Placemark>
+<name>Yarnton</name><ExtendedData>
+  <Data name="postcode"><value>OX5 1PT</value></Data>
+  <Data name="URL"><value>http://motorwayservices.uk/Yarnton</value></Data></ExtendedData>
+  <Point><coordinates>-1.308573,51.810425</coordinates></Point></Placemark>
+<Placemark>
+<name>Athlone</name><ExtendedData>
+  <Data name="eircode"><value>N37 N2T0</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Athlone</value></Data></ExtendedData>
+  <Point><coordinates>-7.8273165,53.4007486</coordinates></Point></Placemark>
+<Placemark>
+<name>Birdhill</name><ExtendedData>
+  <Data name="eircode"><value>V94 720P</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Birdhill</value></Data></ExtendedData>
+  <Point><coordinates>-8.408365,52.7584205</coordinates></Point></Placemark>
+<Placemark>
+<name>Carlow</name><ExtendedData>
+  <Data name="eircode"><value>R93 N2X8</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Carlow</value></Data></ExtendedData>
+  <Point><coordinates>-6.8832978,52.8026044</coordinates></Point></Placemark>
+<Placemark>
+<name>Cashel</name><ExtendedData>
+  <Data name="eircode"><value>E25 RC42</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Cashel</value></Data></ExtendedData>
+  <Point><coordinates>-7.8730672,52.5090291</coordinates></Point></Placemark>
+<Placemark>
+<name>Castlebellingham</name><ExtendedData>
+  <Data name="eircode"><value>A91 A2WY</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Castlebellingham</value></Data></ExtendedData>
+  <Point><coordinates>-6.4169479,53.9318538</coordinates></Point></Placemark>
+<Placemark>
+<name>Enfield</name><ExtendedData>
+  <Data name="eircode"><value>A83 NR71</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Enfield</value></Data></ExtendedData>
+  <Point><coordinates>-6.8765776,53.4112383</coordinates></Point></Placemark>
+<Placemark>
+<name>Fermoy</name><ExtendedData>
+  <Data name="eircode"><value>P61 RY63</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Fermoy</value></Data></ExtendedData>
+  <Point><coordinates>-8.2612881,52.1655816</coordinates></Point></Placemark>
+<Placemark>
+<name>Galway</name><ExtendedData>
+  <Data name="eircode"><value>H65 EK28</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Galway</value></Data></ExtendedData>
+  <Point><coordinates>-8.606848,53.2644819</coordinates></Point></Placemark>
+<Placemark>
+<name>Gorey</name><ExtendedData>
+  <Data name="eircode"><value>Y25 V8F8</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Gorey</value></Data></ExtendedData>
+  <Point><coordinates>-6.2028138,52.7504172</coordinates></Point></Placemark>
+<Placemark>
+<name>Kilcullen</name><ExtendedData>
+  <Data name="eircode"><value>R56 T251</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Kilcullen</value></Data></ExtendedData>
+  <Point><coordinates>-6.7556429,53.087789</coordinates></Point></Placemark>
+<Placemark>
+<name>Kill</name><ExtendedData>
+  <Data name="eircode"><value>W91 VNN3</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Kill</value></Data></ExtendedData>
+  <Point><coordinates>-6.5958702,53.2477264</coordinates></Point></Placemark>
+<Placemark>
+<name>Kinnegad</name><ExtendedData>
+  <Data name="eircode"><value>N91 N9YR</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Kinnegad</value></Data></ExtendedData>
+  <Point><coordinates>-7.1077325,53.4522016</coordinates></Point></Placemark>
+<Placemark>
+<name>Lusk</name><ExtendedData>
+  <Data name="eircode"><value>K45 KD89</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Lusk</value></Data></ExtendedData>
+  <Point><coordinates>-6.2156121,53.5369965</coordinates></Point></Placemark>
+<Placemark>
+<name>Manor_Stone</name><ExtendedData>
+  <Data name="eircode"><value>R32 X8H7</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Manor_Stone</value></Data></ExtendedData>
+  <Point><coordinates>-7.4807808,52.8665715</coordinates></Point></Placemark>
+<Placemark>
+<name>Mayfield</name><ExtendedData>
+  <Data name="eircode"><value>W34 E789</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Mayfield</value></Data></ExtendedData>
+  <Point><coordinates>-7.0130851,53.1450646</coordinates></Point></Placemark>
+<Placemark>
+<name>Midway_Food_Court</name><ExtendedData>
+  <Data name="eircode"><value>R32 V09W</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Midway_Food_Court</value></Data></ExtendedData>
+  <Point><coordinates>-7.2998537,53.0140445</coordinates></Point></Placemark>
+<Placemark>
+<name>Moneygall</name><ExtendedData>
+  <Data name="eircode"><value>E53 F342</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Moneygall</value></Data></ExtendedData>
+  <Point><coordinates>-7.9444262,52.8845153</coordinates></Point></Placemark>
+<Placemark>
+<name>Mulhuddart</name><ExtendedData>
+  <Data name="eircode"><value>D15 VK30</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Mulhuddart</value></Data></ExtendedData>
+  <Point><coordinates>-6.4137948,53.4068466</coordinates></Point></Placemark>
+<Placemark>
+<name>Paulstown</name><ExtendedData>
+  <Data name="eircode"><value>R95 R2X6</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Paulstown</value></Data></ExtendedData>
+  <Point><coordinates>-7.0353789,52.6801939</coordinates></Point></Placemark>
+<Placemark>
+<name>Portlaoise</name><ExtendedData>
+  <Data name="eircode"><value>R32 V97T</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Portlaoise</value></Data></ExtendedData>
+  <Point><coordinates>-7.3074749,53.0142894</coordinates></Point></Placemark>
+<Placemark>
+<name>Rathcoole</name><ExtendedData>
+  <Data name="eircode"><value>D24 DH00</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Rathcoole</value></Data></ExtendedData>
+  <Point><coordinates>-6.4883542,53.2784621</coordinates></Point></Placemark>
+<Placemark>
+<name>Wicklow</name><ExtendedData>
+  <Data name="eircode"><value>A67 WR12</value></Data>
+  <Data name="URL"><value>http://motorwayservices.ie/Wicklow</value></Data></ExtendedData>
+  <Point><coordinates>-6.0904412,53.0442765</coordinates></Point></Placemark></Document></kml>
