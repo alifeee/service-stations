@@ -77,7 +77,7 @@ echo "do it manually :)"
 csvtool col 1 eircodes.csv | sed 's/^/http:\/\/motorwayservices.ie\//' | paste -d, eircodes.csv - > /tmp/coords
 mv /tmp/coords eircodes.csv
 # add header to CSV
-sed -i '1s/^/name,postcode,latitude,longitude,URL\n/' eircodes.csv
+sed -i '1s/^/name,eircode,latitude,longitude,URL\n/' eircodes.csv
 # create geojson (see https://gist.github.com/alifeee/60e121a4b55ce1069b003e1d94f0e046)
 git clone git@github.com:pvernier/csv2geojson.git
 (cd csv2geojson/; go build main.go)
