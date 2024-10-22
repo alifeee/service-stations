@@ -1,12 +1,30 @@
 # service-stations
 
-map of service stations in the uk from https://motorwayservices.uk/
+map of service stations in the uk from <https://motorwayservices.uk/> and Ireland from <https://motorwayservices.ie/>
 
-view on: <https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2Falifeee%2Fservice-stations%2Frefs%2Fheads%2Fmain%2Fcoordinates.geojson>
+view UK map on: <https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2Falifeee%2Fservice-stations%2Frefs%2Fheads%2Fmain%2Fcoordinates.geojson>
 
-also view on Google Maps / OSMAnd / Bing Maps / etc (see instructions below)
+view Ireland map on: (TODO)
 
-## generated with
+also view on Google Maps / OSMAnd / Bing Maps / etc with...
+
+## Import to different apps
+
+### Google Maps
+
+create a custom map ([how?](https://www.google.com/maps/about/mymaps/)) and import the `.kml` file above. Or, use this map I made: <https://www.google.com/maps/d/u/0/edit?mid=1llayKM-EKG17ENDg8x-3_Xv6-yNkTxU&usp=sharing>
+
+### OSMAnd
+
+Import as places to <https://osmand.net/>, by downloading the `.gpx` file and uploading it to places.
+
+### Apple Maps
+
+not sure yet...
+
+## Generation
+
+### UK Services
 
 ```bash
 # get all possible pages from motorway services site
@@ -38,16 +56,31 @@ git clone git@github.com:pvernier/csv2geojson.git
 # file now is -> coordinates.geojson !
 ```
 
-## Import to different apps
+### Ireland services
 
-### Google Maps
-
-create a custom map ([how?](https://www.google.com/maps/about/mymaps/)) and import the `.kml` file above. Or, use this map I made: <https://www.google.com/maps/d/u/0/edit?mid=1llayKM-EKG17ENDg8x-3_Xv6-yNkTxU&usp=sharing>
-
-### OSMAnd
-
-Import as places to <https://osmand.net/>, by downloading the `.gpx` file and uploading it to places.
-
-### Apple Maps
-
-not sure yet...
+```bash
+# Irish site has no sitemap, but lists all services when you search for them, as there are not many
+wget "https://motorwayservices.ie/Services_Search?reply=yes&country=IE&road=Any&brands=Any&operator=Any&access=Any&rating=None&ratingt=All" -O services_search.html
+# tidy HTML so that we can easily grep for links instead of parsing HTML
+tidy services_search.html > temp.html; mv temp.html services_search.html
+# find all links in table
+cat services_search.html | pcregrep -o1 '<td.*<a href="(.*)"' | sort -h | uniq | sed 's/^/https:\/\/motorwayservices.ie/' > pages.txt
+# save all sites locally
+mkdir pages
+while read site; do name=$(echo "${site}" | sed 's/\///g' | sed 's/https:motorwayservices.ie//g'); wget "${site}" -O "pages/${name}.html" --timeout=2 --tries=1; sleep 1; done <<< $(cat pages.txt)
+# get eirecodes from each page
+pcregrep -ri "<p>[A-Z0-9]{3} ?[A-Z0-9]{4}" pages | pcregrep -o1 -o2 --om-separator="," "pages/(.*)\.html.*<p>([A-Z0-9]{3} ?[A-Z0-9]{4})" | sort -h > eircodes.csv
+# now, we cannot convert Eircodes to latlong coordinates easily, as Eircodes are proprietary(?)
+#  so, what I did was manually paste each Eircode into Google Maps, refresh the page (to centre the page on the pin), and copy the coordinates from the URL
+echo "do it manually :)"
+# add URLs
+csvtool col 1 eircodes.csv | sed 's/^/http:\/\/motorwayservices.ie\//' | paste -d, eircodes.csv - > /tmp/coords
+mv /tmp/coords eircodes.csv
+# add header to CSV
+sed -i '1s/^/name,postcode,latitude,longitude,URL\n/' eircodes.csv
+# create geojson (see https://gist.github.com/alifeee/60e121a4b55ce1069b003e1d94f0e046)
+git clone git@github.com:pvernier/csv2geojson.git
+(cd csv2geojson/; go build main.go)
+./csv2geojson/main eircodes.csv
+# file now is -> eircodes.geojson !
+```
