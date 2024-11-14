@@ -8,8 +8,6 @@ view map on Google Maps: <https://www.google.com/maps/d/u/0/edit?mid=1llayKM-EKG
 
 ![screenshot of map showing many markers, one is expanded](./images/map.png)
 
-view Ireland map on: (TODO)
-
 also view on Google Maps / OSMAnd / Bing Maps / etc with...
 
 ## Import to different apps
@@ -106,5 +104,4 @@ geojson-merge service-stations-uk.geojson service-stations-ie.geojson  > service
 
 Create a gpx file using <https://products.aspose.app/gis/conversion/geojson-to-gpx> or similar (search "geojson to gpx")
 
-Create a kml file using 
-
+Create a kml file using <https://geojson.io/>
