@@ -6,6 +6,8 @@ view map on geojson.io: <https://geojson.io/#data=data:text/x-url,https%3A%2F%2F
 
 view map on Google Maps: <https://www.google.com/maps/d/u/0/edit?mid=1llayKM-EKG17ENDg8x-3_Xv6-yNkTxU&usp=sharing>
 
+see more maps on <https://alifeee.co.uk/maps/>
+
 ![screenshot of map showing many markers, one is expanded](./images/map.png)
 
 also view on Google Maps / OSMAnd / Bing Maps / etc with...
