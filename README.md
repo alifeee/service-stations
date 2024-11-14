@@ -2,7 +2,11 @@
 
 map of service stations in the uk from <https://motorwayservices.uk/> and Ireland from <https://motorwayservices.ie/>
 
-view UK map on: <https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2Falifeee%2Fservice-stations%2Frefs%2Fheads%2Fmain%2Fservice-stations-uk.geojson>
+view map on geojson.io: <https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2Falifeee%2Fservice-stations%2Frefs%2Fheads%2Fmain%2Fservice-stations-uk.geojson>
+
+view map on Google Maps: <https://www.google.com/maps/d/u/0/edit?mid=1llayKM-EKG17ENDg8x-3_Xv6-yNkTxU&usp=sharing>
+
+![screenshot of map showing many markers, one is expanded](./images/map.png)
 
 view Ireland map on: (TODO)
 
@@ -12,7 +16,7 @@ also view on Google Maps / OSMAnd / Bing Maps / etc with...
 
 ### Google Maps
 
-create a custom map ([how?](https://www.google.com/maps/about/mymaps/)) and import the `.kml` file above. Or, use this map I made: <https://www.google.com/maps/d/u/0/edit?mid=1llayKM-EKG17ENDg8x-3_Xv6-yNkTxU&usp=sharing>
+create a custom map ([how?](https://www.google.com/maps/about/mymaps/)) and import the `.kml` file above.
 
 ### OSMAnd
 
