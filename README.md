@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/service-stations/about/>
 # service-stations
 
 map of service stations in the uk from <https://motorwayservices.uk/> and Ireland from <https://motorwayservices.ie/>
